@@ -7,7 +7,7 @@ on:
     # Corre cada 1h
     #- cron: '0 * * * *'
     # Otras programaciones
-    - cron: '0 */1 * * *'
+    - cron: '0 10-22 * * *'
 
 jobs:
   build:
