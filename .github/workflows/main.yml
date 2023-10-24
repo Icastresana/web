@@ -7,8 +7,8 @@ on:
     # Corre cada 1h
     #- cron: '0 * * * *'
     # Otras programaciones
-    - cron: '0 10-22 * * *'
-    - cron: '01 00 * * *'
+    - cron: '0 06-10,17-00 * * *'
+    
 jobs:
   build:
     runs-on: ubuntu-latest
