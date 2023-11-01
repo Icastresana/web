@@ -223,7 +223,7 @@ echo "<html lang="es">" >> index.html
 echo "<center>" >> index.html
 echo "<head>" >> index.html
 echo "<meta charset="utf-8">" >> index.html
-echo "<title>HTML</title>" >> index.html
+echo "<title>Agenda Deportiva</title>" >> index.html
 echo "<meta name="viewport" content="width=device-width, initial-scale=1.0">" >> index.html
 echo "<link rel="stylesheet" href="estilo.css">" >> index.html
 echo "</head>" >> index.html
