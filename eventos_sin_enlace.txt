@@ -6,7 +6,8 @@
 13:30;Torneo de Sofia 1/4 de Final;J. Draper;C. Ilkel;ATP Tennis TV;
 14:00;Billie Jean King Cup Fase de grupos Partido 3 (Dobles);Australia;Kazajistán;RTVE Play;
 14:00;Billie Jean King Cup Fase de grupos Partido 3 (Dobles);Italia;Alemania;RTVE Play;
-14:00;Torneo de Metz;1/4 de Final;ATP 250;ATP Tennis TV;
+14:00;Torneo de Metz 1/4 de Final;A. Shevchenko;K. Khachanov;ATP Tennis TV;
+15:30;Torneo de Metz 1/4 de Final;L. Van Assche;PH. Herbert;ATP Tennis TV;
 16:00;Billie Jean King Cup Fase de grupos Partido 1;Suiza;Estados Unidos;RTVE Play;
 16:30;Eurobasket Femenino Fase de Clasificación;Turquía;Eslovaquia;FIBA YouTube;
 17:00;Eurobasket Femenino Fase de Clasificación;Rumanía;Islandia;FIBA YouTube;
@@ -17,11 +18,13 @@
 18:00;Eurobasket Femenino Fase de Clasificación;Hungría;Eslovenia;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;República Checa;Alemania;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;Serbia;Ucrania;FIBA YouTube;
+18:00;Torneo de Metz 1/4 de Final;U. Humbert;H. Mayot;ATP Tennis TV;
 18:30;Eurobasket Femenino Fase de Clasificación;Lituania;Azerbaiyán;FIBA YouTube;
 18:30;Torneo de Sofia 1/4 de Final;M. Fucsovics;P. Kotov;ATP Tennis TV;
 19:00;Eurobasket Femenino Fase de Clasificación;Dinamarca;Estonia;FIBA YouTube;
 19:30;Eurobasket Femenino Fase de Clasificación;Holanda;Austria;FIBA YouTube;
 19:30;Eurobasket Femenino Fase de Clasificación;Suiza;Luxemburgo;FIBA YouTube;
+19:30;Torneo de Metz 1/4 de Final;F. Fognini;L. Sonego;ATP Tennis TV;
 20:00;Billie Jean King Cup Fase de grupos Partido 3 (Dobles);Canadá;Polonia;RTVE Play;
 20:00;Billie Jean King Cup Fase de grupos Partido 3 (Dobles);Suiza;Estados Unidos;RTVE Play;
 20:00;Eurobasket Femenino Fase de Clasificación;Bosnia;Montenegro;FIBA YouTube;
