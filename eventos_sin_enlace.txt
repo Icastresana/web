@@ -1,7 +1,7 @@
-10:00;Billie Jean King Cup;Semifinal 1;Partido 1;RTVE Play;
-12:00;Billie Jean King Cup;Semifinal 1;Partido 2;RTVE Play;
+10:00;Billie Jean King Cup Semifinal 1 Partido 1;Eslovenia;Italia;RTVE Play;
+12:00;Billie Jean King Cup Semifinal 1 Partido 2;Eslovenia;Italia;RTVE Play;
 13:00;Primera Federación Futsal;Palma Futsal;Noia Portus Apostoli FS;FEF TV;
-14:00;Billie Jean King Cup;Semifinal 1;Partido 3 (Dobles);RTVE Play;
+14:00;Billie Jean King Cup Semifinal 1 Partido 3 (Dobles);Eslovenia;Italia;RTVE Play;
 14:00;Torneo de Sofia Final ATP 250;J. Draper;A. Mannarino;ATP Tennis TV;
 16:00;Premier League;Manchester Utd.;Luton Town;DAZN (Regístrate);
 16:00;Primera Federación Futsal;Real Betis FS;Córdoba FS;FEF TV;
