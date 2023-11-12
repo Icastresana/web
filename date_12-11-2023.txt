@@ -12,7 +12,7 @@
 14:00;Eurobasket Femenino Fase de Clasificación;Suecia;Dinamarca;FIBA YouTube;
 14:00;LaLiga Hypermotion;Burgos CF;Alcorcón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV Bar;LaLiga TV M2;
 14:30;ATP Finals Round Robin;J. Sinner;S. Tsitsipas;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
-15:00;Billie Jean King Cup;Final;Partido 1;Teledeporte;RTVE Play;
+15:00;Billie Jean King Cup Final Partido 1;Canadá;Italia;Teledeporte;RTVE Play;
 15:00;Eurobasket Femenino Fase de Clasificación;Estonia;Gran Bretaña;FIBA YouTube;
 15:00;Eurobasket Femenino Fase de Clasificación;Finlandia;Hungría;FIBA YouTube;
 15:00;Premier League;Aston Villa;Fulham;DAZN (Regístrate);DAZN 3 (M196);
@@ -24,7 +24,7 @@
 16:15;Eurobasket Femenino Fase de Clasificación;Polonia;Lituania;FIBA YouTube;
 16:15;La Liga EA Sports;FC Barcelona;Alavés;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);M+ LaLiga TV UHD (M440 O111);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;FC Andorra;Eldense;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-17:00;Billie Jean King Cup;Final;Partido 2;Teledeporte;RTVE Play;
+17:00;Billie Jean King Cup Final Partido 2;Canadá;Italia;Teledeporte;RTVE Play;
 17:00;Eurobasket Femenino Fase de Clasificación;Luxemburgo;Bosnia;FIBA YouTube;
 17:00;Eurobasket Femenino Fase de Clasificación;Rumanía;Eslovaquia;FIBA YouTube;
 17:00;Eurobasket Femenino Fase de Clasificación;Ucrania;Portugal;FIBA YouTube;
@@ -41,7 +41,7 @@
 18:30;LaLiga Hypermotion;CD Tenerife;Villarreal B;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 18:30;LaLiga Hypermotion;Huesca;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M3;
 18:30;Liga Endesa Liga Regular;Barça Basket;Lenovo Tenerife;Movistar Plus+ (M7);Movistar Plus+ 2 (M176);M+ Deportes (63);M+ Deportes 6 (193);
-19:00;Billie Jean King Cup;Final;Partido 3 (Dobles);Teledeporte;RTVE Play;
+19:00;Billie Jean King Cup Final Partido 3 (Dobles);Canadá;Italia;Teledeporte;RTVE Play;
 19:30;Eurobasket Femenino Fase de Clasificación;Islandia;Turquía;FIBA YouTube;
 21:00;ATP Finals Round Robin;N. Djokovic;H. Rune;ATP Tennis TV;M+ Deportes 2 (64);
 21:00;La Liga EA Sports;At. Madrid;Villarreal;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
