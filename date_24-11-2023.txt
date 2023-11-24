@@ -1,6 +1,6 @@
-10:00;ITF Torneo de Valencia;1/4 de Final;ITF W100;M+ Ellas Vamos (66);Movistar+ Lite;
+10:50;ITF Torneo de Valencia 1/4 de Final ITF W100;I. Burillo;A. Mitu;M+ Ellas Vamos (66);Movistar+ Lite;
 12:00;FIA Fórmula 2;G.P. Abu Dhabi (Yas Marina);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
-12:00;ITF Torneo de Valencia;1/4 de Final;ITF W100;M+ Ellas Vamos (66);Movistar+ Lite;
+12:30;ITF Torneo de Valencia 1/4 de Final ITF W100;A. Bolsova;V. Tomova;M+ Ellas Vamos (66);Movistar+ Lite;
 13:30;Torneo de Valencia 1/4 de Final ATP Challenger Tour;R. Bautista-Agut;A. Moro Cañas;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 15:00;Torneo de Valencia 1/4 de Final ATP Challenger Tour;F. Fognini;PH. Herbert;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 16:00;Davis Cup Finals Semifinal 1 Partido 1;Finlandia;Australia;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
