@@ -1,2 +1,3 @@
-14:00;Premier League;Wolverhampton;Chelsea;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
-15:00;World Tennis League;Final;Tennis Channel (Orange 104);Eurosport Player;
+18:00;NBA Liga Regular;New York Knicks;Milwaukee Bucks;NBA League Pass;
+20:30;NBA Liga Regular;Denver Nuggets;Golden State Warriors;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+23:00;NBA Liga Regular;Los Angeles Lakers;Boston Celtics;Movistar Plus+ (M7);M+ Deportes (63);
