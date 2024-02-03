@@ -18,8 +18,8 @@
 16:15;La Liga EA Sports;Granada CF;UD Las Palmas;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Huesca;Alcorcón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 16:15;LaLiga Hypermotion;Mirandés;Villarreal B;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
+16:30;Torneo de Montpellier Semifinal 2 ATP 250;H. Rune;B. Coric;ATP Tennis TV;
 17:00;Segunda Federación Futsal;Full Energía Zaragoza;Club Sala 5 Martorell;Aragón Deporte;
-17:00;Torneo de Montpellier;Semifinal 2;ATP 250;ATP Tennis TV;
 17:30;Hexagon Cup;Torneo de Exhibición;Día 4;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 2 (M71);Eurosport 2;Eurosport Player;
 18:00;Liga Endesa Liga Regular;Casademont Zaragoza;Río Breogán;M+ Deportes 3 (65);
 18:00;Liga Endesa Liga Regular;Joventut Badalona;Zunder Palencia;M+ Deportes 2 (64);
