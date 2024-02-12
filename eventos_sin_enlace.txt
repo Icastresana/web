@@ -1,5 +1,4 @@
 00:00;Preolímpico Femenino;Brasil;Alemania;DAZN (Regístrate);
-07:00;Tour de Omán;Etapa 3;Bid Bid › Eastern Mountain (169,3 km);OmanSportsTV YouTube;
 13:30;WTA Doha 1ª Ronda;M. Frech;V. Azarenka;WTA TV;DAZN (Regístrate);
 15:00;WTA Doha 1ª Ronda;N. Osaka;C. García;WTA TV;DAZN (Regístrate);
 16:30;WTA Doha 2ª Ronda;I. Swiatek;S. Cirstea;WTA TV;DAZN (Regístrate);
