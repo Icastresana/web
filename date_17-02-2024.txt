@@ -33,13 +33,13 @@
 18:30;Segunda Federación Futsal;CD El Ejido Futsal;CFS Bisontes Castellón;RFEF.es;
 18:30;Segunda Federación Futsal;Full Energía Zaragoza;UMA Antequera;Aragón Deporte;
 19:30;Primera Federación Futsal;Real Betis FS;Ribera Navarra FS;FEF TV;
-19:30;Torneo de Rotterdam;Semifinal 2;ATP 500;ATP Tennis TV;M+ Deportes 3 (65);
+19:30;Torneo de Rotterdam Semifinal 2 ATP 500;J. Sinner;T. Griekspoor;ATP Tennis TV;M+ Deportes 3 (65);
 20:00;Primera Federación Futsal;Jimbee Cartagena FS;Jaén FS;FEF TV;
-20:00;Torneo de Buenos Aires;Semifinal 1;ATP 250;ATP Tennis TV;M+ Deportes 2 (64);
-21:00;Copa del Rey;Semifinales;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+20:00;Torneo de Buenos Aires Semifinal 1 ATP 250;F. Díaz Acosta;F. Coria;ATP Tennis TV;M+ Deportes 2 (64);
+21:00;Copa del Rey Semifinales;Barça Basket;Lenovo Tenerife;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 21:00;La Liga EA Sports;Valencia CF;Sevilla FC;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Espanyol;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;Primera Federación Futsal;Servigroup Peñiscola FS;Viña Albali Valdepeñas;FEF TV;Teledeporte;RTVE Play;
-21:00;Torneo de Delray Beach;Semifinal 1;ATP 250;ATP Tennis TV;
-22:00;Torneo de Buenos Aires;Semifinal 2;ATP 250;ATP Tennis TV;M+ Deportes 2 (64);
+21:00;Torneo de Delray Beach Semifinal 1 ATP 250;T. Paul;F. Tiafoe;ATP Tennis TV;
+22:00;Torneo de Buenos Aires Semifinal 2 ATP 250;C. Alcaraz;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
 BaloncestoESP;
