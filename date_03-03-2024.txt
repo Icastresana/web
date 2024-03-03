@@ -13,6 +13,7 @@
 15:10;París-Niza;Etapa 1;Les Mureaux › Les Mureaux (157,7 km);DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
 16:15;La Liga EA Sports;At. Madrid;Real Betis;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;CD Tenerife;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
+16:30;Adidas Next Generation Fase de Clasificación Final;AX Olimpia Milano;Barça Basket;EuroLeague YouTube;
 16:30;Premier League;Manchester City;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 17:00;Liga Endesa Liga Regular;Valencia Basket;Zunder Palencia;M+ Deportes 2 (64);
 18:30;La Liga EA Sports;Mallorca;Girona;M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
@@ -21,8 +22,8 @@
 18:30;Liga Endesa Liga Regular;Dreamland Gran Canaria;Baskonia;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;La Liga EA Sports;Athletic Club;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Leganés;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-21:00;WTA Torneo de Austin;Final;WTA 250;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
+21:00;WTA Torneo de Austin Final WTA 250;Xi. Wang;Y. Yuan;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 21:30;NASCAR Cup Series;Las Vegas Speedway;Carrera;DAZN (Regístrate);
 21:30;NBA Liga Regular;Boston Celtics;Golden State Warriors;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:30;Partido de Exhibición Las Vegas (Estados Unidos);R. Nadal;C. Alcaraz;Netflix;
-23:00;Torneo de Santiago;Final;ATP 250;ATP Tennis TV;
+23:00;Torneo de Santiago Final ATP 250;A. Tabilo;S. Báez;ATP Tennis TV;
