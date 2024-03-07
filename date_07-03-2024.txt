@@ -1,10 +1,4 @@
 01:30;NBA Liga Regular;Atlanta Hawks;Cleveland Cavaliers;M+ Deportes (63);
-03:00;Masters Indian Wells 1ª Ronda;B. Coric;S. Ofner;ATP Tennis TV;M+ Deportes 6 (193);
-03:00;Masters Indian Wells 1ª Ronda;J. Shang;J. Thompson;ATP Tennis TV;M+ Deportes 7 (194);
-03:00;WTA Indian Wells 1ª Ronda;N. Hibino;V. Williams;WTA TV;
-04:30;Masters Indian Wells 1ª Ronda;J. Mensik;S-C. Hong;ATP Tennis TV;M+ Deportes 7 (194);
-04:30;Masters Indian Wells 1ª Ronda;T. Seyboth-Wild;J. Wolf;ATP Tennis TV;M+ Deportes 5 (192);
-04:30;WTA Indian Wells 1ª Ronda;N. Podoroska;A. Krueger;WTA TV;
 13:05;Tirreno-Adriático;Etapa 4;Arrone › Giulianova (207 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
 14:30;Fórmula 1;G.P. Arabia Saudí (Jeddah);Libres 1;DAZN (Regístrate);DAZN F1 (M69);
 15:20;París-Niza;Etapa 5;Saint-Sauveur-de-Montagut › Sisteron (193,5 km);DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
@@ -29,3 +23,9 @@
 21:00;Europa League 1/8 de final;Benfica;Rangers FC;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 5 (M182 O277);
 21:00;Europa League 1/8 de final;Freiburg;West Ham;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
 21:00;Europa League 1/8 de final;O. Marseille;Villarreal;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);LaLiga TV Bar;
+21:30;Masters Indian Wells 1ª Ronda;D. Lajovic;E. Ruusuvuori;ATP Tennis TV;M+ Deportes 2 (64);
+21:30;WTA Indian Wells 1ª Ronda;C. Wozniacki;L. Zhu;WTA TV;
+21:30;WTA Indian Wells 1ª Ronda;N. Hibino;V. Williams;WTA TV;
+21:30;WTA Indian Wells 1ª Ronda;N. Podoroska;A. Krueger;WTA TV;
+23:00;Masters Indian Wells 1ª Ronda;B. Coric;S. Ofner;ATP Tennis TV;M+ Deportes 6 (193);
+23:00;Masters Indian Wells 1ª Ronda;J. Mensik;S-C. Hong;ATP Tennis TV;M+ Deportes 7 (194);
