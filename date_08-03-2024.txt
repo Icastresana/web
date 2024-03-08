@@ -3,9 +3,6 @@
 01:30;NBA Liga Regular;Dallas Mavericks;Miami Heat;M+ Deportes (63);
 02:00;Masters Indian Wells 1ª Ronda;F. Fognini;B. Zapata;ATP Tennis TV;M+ Deportes 8 (M195);M+ Deportes 2 (64);
 03:00;Masters Indian Wells 1ª Ronda;M. Raonic;S. Nagal;ATP Tennis TV;M+ Deportes 7 (194);
-03:30;Masters Indian Wells 1ª Ronda;A. Kovacevic;Zh. Zhang;ATP Tennis TV;M+ Deportes 8 (M195);
-04:30;Masters Indian Wells 1ª Ronda;B. Van de Zandschulp;D. Shapovalov;ATP Tennis TV;
-04:30;WTA Indian Wells 1ª Ronda;V. Tomova;S. Kenin;WTA TV;
 13:05;Tirreno-Adriático;Etapa 5;Torricella Sicura › Valle Castellana (146 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
 13:10;F1 Academy;G.P. Arabia Saudí (Jeddah);Carrera 1;DAZN (Regístrate);F1 Academy YouTube;DAZN F1 (M69);
 14:30;Fórmula 1;G.P. Arabia Saudí (Jeddah);Libres 3;DAZN (Regístrate);DAZN F1 (M69);
@@ -24,3 +21,6 @@
 21:00;La Liga EA Sports;FC Barcelona;Mallorca;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Noia Portus Apostoli FS;ElPozo Murcia;FEF TV;
 21:00;Puebla Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+21:30;Masters Indian Wells 1ª Ronda;A. Kovacevic;Zh. Zhang;ATP Tennis TV;M+ Deportes 8 (M195);
+23:00;Masters Indian Wells 1ª Ronda;B. Van de Zandschulp;D. Shapovalov;ATP Tennis TV;
+23:00;WTA Indian Wells 1ª Ronda;V. Tomova;S. Kenin;WTA TV;
