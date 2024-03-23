@@ -1,4 +1,3 @@
-00:00;WTA Miami 2ª Ronda;I. Swiatek;C. Giorgi;WTA TV;DAZN (Regístrate);
 06:00;Adidas Next Generation Fase de Clasificación;Zalgiris Kaunas;Valencia Basket;EuroLeague YouTube;
 07:30;Cape Epic;Etapa 6;Stellenbosch (87 km);LaLiga+;LaLiga+ Plus;
 11:00;Torneo de Murcia Semifinal 1;H. Rocha;P. Llamas;Marca YouTube;Eurosport Player;
@@ -7,4 +6,8 @@
 14:50;Settimana Coppi e Bartali;Etapa 5;Forlì › Forlì (157,9 km);CiclismoLive YouTube;
 15:00;Adidas Next Generation Fase de Clasificación;Valencia Basket;Virtus Bologna;EuroLeague YouTube;
 15:15;Supersport;G.P. Cataluña (Montmeló);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);RTVE Play;Eurosport Player;
+16:00;WTA Miami 2ª Ronda;L. Zhu;J. Pegula;WTA TV;DAZN (Regístrate);
 16:00;WTA Miami;3ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);
+19:00;WTA Miami 2ª Ronda;E. Avanesyan;O. Jabeur;WTA TV;DAZN (Regístrate);
+19:00;WTA Miami 2ª Ronda;N. Osaka;E. Svitolina;WTA TV;DAZN (Regístrate);
+20:30;WTA Miami 2ª Ronda;I. Swiatek;C. Giorgi;WTA TV;DAZN (Regístrate);
