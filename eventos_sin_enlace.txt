@@ -12,4 +12,7 @@
 20:00;WTA Torneo de Charleston 1ª Ronda;A. Cornet;A. Anisimova;WTA TV;
 20:30;WTA Torneo de Bogotá 1ª Ronda;J. Niemeier;N. Brancaccio;WTA TV;
 21:00;Torneo de Houston 1ª Ronda;D. Ajdukovic;B. Nakashima;ATP Tennis TV;
+21:30;WTA Torneo de Charleston 1ª Ronda;C. Liu;S. Rogers;WTA TV;
 22:30;Torneo de Houston 1ª Ronda;P. Kypson;Z. Bergs;ATP Tennis TV;
+23:00;WTA Torneo de Charleston 1ª Ronda;V. Gracheva;C. Ngounoue;WTA TV;
+23:30;WTA Torneo de Bogotá 1ª Ronda;C. Bucsa;X. You;WTA TV;
