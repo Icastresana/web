@@ -1,0 +1,52 @@
+name: run eventos.sh
+
+on:
+  workflow_dispatch:
+  
+  schedule:
+    # Corre cada 2h entre las 8 y las 23
+    - cron: '0 8-23/2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push
+      contents: write
+      
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+
+      - name: Instalar tor
+        run: sudo apt-get install tor -y
+  
+      - name: Instalar curl
+        run: sudo apt-get install curl -y
+  
+      - name: Instalar pandoc
+        run: sudo apt-get install pandoc -y
+
+      - name: Ejecutar script eventos.sh
+        run: |
+          chmod +x *.sh
+          ./eventos.sh
+          
+      - name: pull changes
+        run: git pull origin main
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Update list" --allow-empty)
+          
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          #github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
