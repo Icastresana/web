@@ -3,8 +3,8 @@ name: run eventos.sh
 on:
   workflow_dispatch:
   
+  
   schedule:
-   schedule:
     # Corre cada 1h
     #- cron: '0 * * * *'
     # Otras programaciones
