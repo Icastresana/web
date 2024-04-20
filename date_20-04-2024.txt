@@ -17,11 +17,11 @@
 14:00;Superbike;G.P. Holanda (Assen);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 3 (M196);RTVE Play;Eurosport Player;
 14:00;WTA Torneo de Stuttgart Semifinal 1 WTA 500;I. Swiatek;E. Rybakina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:30;Barcelona Open;Semifinal Dobles;ATP 500;ATP Tennis TV;RTVE Play;
-15:00;Torneo de Bucarest;Semifinal 2;ATP 250;ATP Tennis TV;
-15:00;Torneo de Múnich;Semifinal 2;ATP 250;ATP Tennis TV;
+15:00;Torneo de Bucarest Semifinal 2 ATP 250;M. Navone;G. Barrere;ATP Tennis TV;
+15:00;Torneo de Múnich Semifinal 2 ATP 250;JL. Struff;H. Rune;ATP Tennis TV;
 15:00;WTA Torneo de Rouen Semifinal 1 WTA 250;S. Stephens;C. García;WTA TV;DAZN (Regístrate);
 15:15;Supersport;G.P. Holanda (Assen);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 3 (M196);RTVE Play;Eurosport Player;
-16:00;Barcelona Open Semifinal 2 ATP 500;S. Tsitsipas;D. Lajovic;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);Movistar+;
+16:00;Barcelona Open Semifinal 2 ATP 500;S. Tsitsipas;D. Lajovic;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);
 16:00;Premier League;Luton Town;Brentford;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 16:00;Premier League;Sheffield United;Burnley;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
 16:00;Primera Federación Futsal;Viña Albali Valdepeñas;Manzanares FS;FEF TV;
