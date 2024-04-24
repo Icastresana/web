@@ -2,7 +2,6 @@
 02:30;NBA Playoffs;Indiana Pacers;Milwaukee Bucks;M+ Deportes (63);
 04:00;NBA Playoffs;Dallas Mavericks;Los Angeles Clippers;NBA League Pass;
 10:00;Bruselas Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;Masters Madrid;1ª Ronda;ATP Masters 1000;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);M+ Deportes 4 (191);M+ Deportes 5 (192);M+ Deportes 6 (193);
 11:00;WTA Madrid 1ª Ronda;J. Bouzas;P. Badosa;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;
 11:00;WTA Madrid 1ª Ronda;L. Davis;M. Sherif;WTA TV;RTVE Play;
 11:00;WTA Madrid 1ª Ronda;L. Zhu;V. Jiménez;WTA TV;RTVE Play;
@@ -22,6 +21,7 @@
 17:00;WTA Madrid 1ª Ronda;R. Montgomery;E. Avanesyan;WTA TV;RTVE Play;
 17:00;WTA Madrid 1ª Ronda;S. Errani;C. Wozniacki;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;
 18:00;FIBA Europe Cup Final;Bahçeşehir Koleji;NINERS Chemnitz;FIBA YouTube;
+18:30;Masters Madrid 1ª Ronda;F. Díaz Acosta;D. Shapovalov;ATP Tennis TV;Teledeporte;RTVE Play;
 19:00;Euroliga Playoffs;AS Monaco Basket;Fenerbahce Istanbul;M+ Deportes 3 (65);
 19:00;WTA Madrid 1ª Ronda;M. Andreeva;T. Townsend;WTA TV;RTVE Play;
 20:00;Primera Federación Futsal;Palma Futsal;Servigroup Peñiscola FS;FEF TV;
