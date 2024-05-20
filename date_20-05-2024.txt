@@ -1,5 +1,6 @@
 00:00;Paraguay Open;Final Masculina;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);
 02:00;NASCAR Cup Series;NASCAR All-Star Race;North Wilkesboro Speedway (North Carolina);DAZN (Regístrate);
+02:00;NBA Playoffs Semifinal Conferencia;Minnesota Timberwolves;Denver Nuggets;M+ Deportes (63);
 10:00;Roland Garros;Ronda de clasificación;Grand Slam;Eurosport Player;
 11:00;Torneo de Lyon 1ª Ronda;N. Sánchez Izquierdo;TM. Etcheverry;ATP Tennis TV;
 11:00;WTA Torneo de Estrasburgo 1ª Ronda;L. Samsonova;B. Krejcikova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
@@ -14,9 +15,12 @@
 14:30;Torneo de Ginebra 1ª Ronda;A. Karatsev;F. Cobolli;ATP Tennis TV;
 14:45;WTA Torneo de Estrasburgo 1ª Ronda;E. Andreeva;F. Ferro;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 15:00;Torneo de Lyon 1ª Ronda;H. Gaston;D. Galán;ATP Tennis TV;
+15:00;Tour de Limburgo;UCI Europe Tour;Hasselt › Tongeren (195,6 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
 15:00;WTA Torneo de Rabat 1ª Ronda;Y. Yuan;C. Rosatello;WTA TV;
 16:30;WTA Torneo de Rabat 1ª Ronda;L. Siegemund;A. Blinkova;WTA TV;
 17:30;WTA Torneo de Estrasburgo 1ª Ronda;E. Navarro;A. Cornet;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 18:00;Torneo de Ginebra 1ª Ronda;Y. Hanfmann;A. Murray;ATP Tennis TV;
 18:00;Torneo de Lyon 1ª Ronda;J. Munar;F. Tiafoe;ATP Tennis TV;
 19:30;Torneo de Ginebra 1ª Ronda;T. Machac;J. Draper;ATP Tennis TV;
+20:30;LaLiga Hypermotion;Espanyol;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV Bar;
+20:30;LaLiga Hypermotion;Villarreal B;Albacete;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
