@@ -1,6 +1,0 @@
-02:30;NBA Final Conferencia Oeste;Minnesota Timberwolves;Dallas Mavericks;Movistar Plus+ (M7);M+ Deportes (63);
-11:00;Roland Garros;2ª Ronda;Grand Slam;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;M+ Deportes 4 (191);M+ Deportes 5 (192);M+ Deportes 6 (193);Eurosport 1;Eurosport 2;Eurosport Player;
-13:00;Mercan'Tour Classic;UCI Europe Tour;Puget-Théniers › Valberg (168,2 km);MAX;Eurosport Player;
-14:40;Circuito Franco-Belga;UCI ProSeries;Tournai › Mont-de-l'Enclus (190,6 km);MAX;Eurosport Player;
-15:00;Santiago Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-20:30;Liga Endesa Semifinales;Real Madrid Baloncesto;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
