@@ -9,5 +9,4 @@
 16:00;Roland Garros 1/8 de final (Philippe Chatrier);N. Djokovic;F. Cerúndolo;Eurosport 4K (M444 O102);MAX;DAZN (Regístrate);Eurosport 1;Eurosport Player;
 16:30;Roland Garros 1/8 de final (Suzanne Lenglen);T. Fritz;C. Ruud;MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 20:15;Roland Garros 1/8 de final (Philippe Chatrier);A. Zverev;H. Rune;Eurosport 4K (M444 O102);MAX;DAZN (Regístrate);Eurosport 1;Eurosport Player;
-20:30;Liga Endesa Semifinales;UCAM Murcia CB;Unicaja Málaga;M+ Deportes (63);
 20:30;Primera Federación Futsal Playoff Semifinales;Barça FS;Jimbee Cartagena FS;FEF TV;Teledeporte;RTVE Play;Esport3 (Cataluña);
