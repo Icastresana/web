@@ -48,7 +48,7 @@
 16:30;Juegos Olímpicos 1ª Ronda;C. Eubanks;B. Hassan;MAX;
 16:30;Juegos Olímpicos 1ª Ronda;R. Hijikata;D. Medvedev;MAX;
 16:30;Juegos Olímpicos 1ª Ronda;S. Wawrinka;P. Kotov;MAX;
-16:34;Juegos Olímpicos;Contrarreloj Masculina;Paris › Paris (33 km);MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);RTVE Play;Eurosport 1;
+16:34;Juegos Olímpicos;Contrarreloj Masculina;Paris › Paris (33 km);MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);La 1 TVE;RTVE Play;Eurosport 1;
 17:00;Europeo Sub-18 Fase de grupos;Letonia;Israel;FIBA YouTube;
 17:15;JJOO Masculinos Fase de grupos;Francia;Brasil;MAX;Eurosport 6 (M183 O105);
 17:30;Europeo Sub-18 Fase de grupos;Finlandia;Lituania;FIBA YouTube;
