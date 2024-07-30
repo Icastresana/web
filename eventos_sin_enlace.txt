@@ -1,5 +1,5 @@
 01:00;WTA Torneo de Washington 1ª Ronda;E. Mertens;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;Torneo de Washington 1ª Ronda;R. Opelka;J. Duckworth;ATP Tennis TV;
+05:45;Torneo de Washington 1ª Ronda;R. Opelka;J. Duckworth;ATP Tennis TV;
 10:00;Finlandia Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 11:32;JJOO Masculinos 1/8 de final;Y. Chothia;R. Lozano Serrano;MAX;RTVE Play;
 12:00;Juegos Olímpicos 1/8 de final;A. Kerber;L. Fernández;MAX;
