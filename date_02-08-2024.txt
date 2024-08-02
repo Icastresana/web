@@ -13,7 +13,7 @@
 12:00;Juegos Olímpicos Semifinales Dobles Femeninos;K. Muchova | L. Noskova;S. Errani | J. Paolini;MAX;
 12:30;JJOO 3x3 Femenino Fase de grupos;Australia;España;MAX;DAZN (Regístrate);RTVE Play;Eurosport 2;
 13:00;Finlandia Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);M+ Deportes 2 (64);
-13:00;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Francia;MAX;
+13:00;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Francia;MAX;DAZN (Regístrate);Eurosport 2;
 13:30;JJOO Masculinos Fase de grupos;Australia;Grecia;MAX;Eurosport 6 (M183 O105);
 13:30;Juegos Olímpicos Semifinal Dobles;M. Ebden | J. Peers;T. Fritz | T. Paul;MAX;
 13:30;Juegos Olímpicos Semifinal masculina;F. Auger-Aliassime;C. Alcaraz;MAX;Eurosport 3 (M180 O102);DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;

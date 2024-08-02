@@ -4,7 +4,6 @@
 10:35;JJOO 3x3 Masculino Fase de grupos;Polonia;Holanda;MAX;
 11:00;JJOO Masculinos Fase de grupos;Japón;Brasil;MAX;Eurosport 6 (M183 O105);
 12:00;Juegos Olímpicos Semifinales Dobles Femeninos;K. Muchova | L. Noskova;S. Errani | J. Paolini;MAX;
-13:00;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Francia;MAX;
 13:30;JJOO Masculinos Fase de grupos;Australia;Grecia;MAX;Eurosport 6 (M183 O105);
 13:30;Juegos Olímpicos Semifinal Dobles;M. Ebden | J. Peers;T. Fritz | T. Paul;MAX;
 13:35;JJOO 3x3 Masculino Fase de grupos;Holanda;Lituania;MAX;
