@@ -28,13 +28,13 @@
 19:05;JJOO 3x3 Femenino Fase de grupos;China;Estados Unidos;MAX;
 20:00;Europeo Sub-18 Semifinales;Israel;Serbia;FIBA YouTube;
 20:00;Velada Peso Superligero;T. McKenna;M. Mimoune;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-20:15;WTA Torneo de Washington;Semifinal 1;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 20:30;La Rioja Open;Semifinales;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 4 (M197);
+20:30;WTA Torneo de Washington Semifinal 1 WTA 500;P. Badosa;C. Dolehide;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 21:00;JJOO Masculinos Fase de grupos;Serbia;Sudán del Sur;MAX;Eurosport 6 (M183 O105);
 21:00;UFC UFC Fight Night;J. Álvarez;E. Brener;MAX;
 21:30;Europeo Femenino Sub-18 Fase de grupos;España;Eslovenia;FIBA YouTube;
 21:30;JJOO 3x3 Femenino;Play-In;MAX;
-22:00;WTA Torneo de Washington;Semifinal 2;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
+22:00;WTA Torneo de Washington Semifinal 2 WTA 500;A. Sabalenka;M. Bouzkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 22:05;JJOO 3x3 Femenino;Play-In;MAX;
 22:08;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 22:20;Título Mundial Peso Superwélter;T. Crawford;I. Madrimov;DAZN (Regístrate);
