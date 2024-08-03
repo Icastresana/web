@@ -2,12 +2,15 @@
 02:30;Torneo de Washington 1/4 de Final;A. Rublev;F. Tiafoe;ATP Tennis TV;M+ Deportes (63);
 08:05;WRC Rally;Rally de Finlandia;SS11 › SS16;DAZN (Regístrate);
 11:00;Finlandia Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
+11:00;ITF Torneo de Gran Canaria Semifinal 1 ITF W100;N. Parrizas Díaz;M. Bassols;Marca YouTube;
 11:00;JJOO Femeninos Fase de grupos;China;Puerto Rico;MAX;Eurosport 6 (M183 O105);
+11:00;Juegos Olímpicos;Ruta Masculina;Paris › Paris (275 km);MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);Eurosport 1;
 11:00;Juegos Olímpicos;Ruta Masculina;Paris › Paris (275 km);MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);Eurosport 1;
 11:50;MotoGP;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 12:00;Juegos Olímpicos Final Dobles;M. Ebden | J. Peers;A. Krajicek | R. Ram;MAX;Eurosport 3 (M180 O102);
+13:00;ITF Torneo de Gran Canaria Semifinal 2 ITF W100;J. Bouzas;A. Lázaro García;Marca YouTube;
 13:30;JJOO Femeninos Fase de grupos;Serbia;España;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 2;
-13:30;Juegos Olímpicos Medalla de Bronce Dobles;T. Fritz | T. Paul;T. Machac / A. Pavlasek;MAX;Eurosport 3 (M180 O102);
+13:30;Juegos Olímpicos Medalla de Bronce Dobles;T. Fritz | T. Paul;T. Machac | A. Pavlasek;MAX;Eurosport 3 (M180 O102);
 13:50;Moto3;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 14:45;Moto2;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;Europeo Sub-18 13º Puesto;Finlandia;España;FIBA YouTube;
