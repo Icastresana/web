@@ -33,10 +33,10 @@
 19:05;JJOO 3x3 Masculino Fase de grupos;Estados Unidos;Holanda;MAX;
 20:00;Europeo Sub-18 Final;Serbia;Alemania;FIBA YouTube;
 20:30;La Rioja Open;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 4 (M197);
-20:30;WTA Torneo de Washington Final WTA 500;TBD;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
+20:30;WTA Torneo de Washington Final WTA 500;M. Bouzkova;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 21:00;JJOO Femeninos Fase de grupos;Australia;Francia;MAX;Eurosport 6 (M183 O105);
 21:30;Europeo Femenino Sub-18 Fase de grupos;Eslovenia;Letonia;FIBA YouTube;
 21:30;Europeo Femenino Sub-18 Fase de grupos;Israel;Francia;FIBA YouTube;
 21:30;JJOO 3x3 Masculino;Play-In;MAX;
 22:05;JJOO 3x3 Masculino;Play-In;MAX;
-23:00;Torneo de Washington;Final;ATP 500;ATP Tennis TV;M+ Deportes (63);
+23:00;Torneo de Washington Final ATP 500;S. Korda;F. Cobolli;ATP Tennis TV;M+ Deportes (63);
