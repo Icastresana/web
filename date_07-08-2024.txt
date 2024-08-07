@@ -6,7 +6,7 @@
 11:00;JJOO Femeninos 1/4 de Final;Serbia;Australia;MAX;Eurosport 6 (M183 O105);
 14:00;Europeo Femenino Sub-18 1/8 de final;España;Luxemburgo;FIBA YouTube;
 14:00;Europeo Femenino Sub-18 1/8 de final;Finlandia;Eslovenia;FIBA YouTube;
-14:30;JJOO Femeninos 1/4 de Final;España;Bélgica;MAX;Eurosport 6 (M183 O105);
+14:30;JJOO Femeninos 1/4 de Final;España;Bélgica;MAX;Eurosport 6 (M183 O105);Teledeporte;RTVE Play;
 15:00;Vuelta a Burgos;Etapa 3;Bodegas Nabal Gumiel De izán › Lagunas De Neila (138 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
 16:00;Carrera Ártica Noruega;Etapa 4;Glomfjord (Meløy) › Bodø (156 km);MAX;
 16:30;Europeo Femenino Sub-18 1/8 de final;Italia;Hungría;FIBA YouTube;
