@@ -1,5 +1,5 @@
-01:00;WTA Canadá 2ª Ronda;Y. Yuan;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;WTA Canadá 2ª Ronda;N. Osaka;E. Mertens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+01:15;WTA Canadá 2ª Ronda;Y. Yuan;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+02:55;WTA Canadá 2ª Ronda;N. Osaka;E. Mertens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:30;Europeo Sub-16 Fase de grupos;Bulgaria;Lituania;FIBA YouTube;
 12:30;Europeo Sub-16 Fase de grupos;Polonia;Eslovenia;FIBA YouTube;
 15:00;Europeo Sub-16 Fase de grupos;Alemania;Serbia;FIBA YouTube;

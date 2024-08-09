@@ -1,8 +1,5 @@
-01:00;Masters Canadá 2ª Ronda;F. Cobolli;A. Rinderknech;ATP Tennis TV;M+ Deportes 3 (65);
-01:00;Masters Canadá 2ª Ronda;T. Kokkinakis;H. Hurkacz;ATP Tennis TV;M+ Deportes 2 (64);
-01:00;WTA Canadá 2ª Ronda;Y. Yuan;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;Masters Canadá 2ª Ronda;S. Korda;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
-02:30;WTA Canadá 2ª Ronda;N. Osaka;E. Mertens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+01:15;WTA Canadá 2ª Ronda;Y. Yuan;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+02:55;WTA Canadá 2ª Ronda;N. Osaka;E. Mertens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:30;Europeo Sub-16 Fase de grupos;Bulgaria;Lituania;FIBA YouTube;
 12:30;Europeo Sub-16 Fase de grupos;Polonia;Eslovenia;FIBA YouTube;
 15:00;Europeo Sub-16 Fase de grupos;Alemania;Serbia;FIBA YouTube;
@@ -13,6 +10,9 @@
 17:30;Europeo Sub-16 Fase de grupos;Finlandia;España;FIBA YouTube;
 17:30;Europeo Sub-16 Fase de grupos;Israel;Grecia;FIBA YouTube;
 17:30;JJOO Femeninos Semifinales;Estados Unidos;Australia;MAX;Eurosport 6 (M183 O105);
+18:00;Masters Canadá 2ª Ronda;F. Cobolli;A. Rinderknech;ATP Tennis TV;M+ Deportes 3 (65);
+18:00;Masters Canadá 2ª Ronda;S. Korda;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
+18:00;Masters Canadá 2ª Ronda;T. Kokkinakis;H. Hurkacz;ATP Tennis TV;M+ Deportes 2 (64);
 18:10;Supersport 300;G.P. Portugal (Portimao);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 18:15;Masters Canadá;3ª Ronda;ATP Masters 1000;ATP Tennis TV;Movistar+;
 18:55;Supersport;G.P. Portugal (Portimao);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
