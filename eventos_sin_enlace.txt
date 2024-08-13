@@ -1,4 +1,4 @@
-01:30;Masters Cincinnati 1ª Ronda;K. Khachanov;F. Cerúndolo;ATP Tennis TV;
+01:50;Masters Cincinnati 1ª Ronda;K. Khachanov;F. Cerúndolo;ATP Tennis TV;
 12:30;Europeo Sub-16 1/8 de final;España;Bulgaria;FIBA YouTube;
 12:30;Europeo Sub-16 1/8 de final;Letonia;Alemania;FIBA YouTube;
 14:30;Tour de Polonia;Etapa 2;Myslakowice › Karpacz (15,4 km);Esport3 (Cataluña);ETB1 (País Vasco);
@@ -12,4 +12,4 @@
 20:00;Europeo Sub-16 1/8 de final;Israel;Georgia;FIBA YouTube;
 20:00;Europeo Sub-16 1/8 de final;Lituania;Turquía;FIBA YouTube;
 20:45;Champions League 3ª Ronda Clasificación;Rangers FC;Dynamo Kyiv;FC Dinamo Kiev YouTube;DATOS ESTADÍSTICOS DE CHAMPIONS LEAGUE EN TELEVISIÓN EN ESPAÑA;
-21:00;WTA Cincinnati 1ª Ronda;D. Vekic;B. Haddad Maia;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+21:00;WTA Cincinnati 1ª Ronda;D. Vekic;A. Krueger;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
