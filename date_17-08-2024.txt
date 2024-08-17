@@ -1,6 +1,6 @@
-00:00;WTA Cincinnati;3ª Ronda;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-01:00;Masters Cincinnati 3ª Ronda;F. Tiafoe;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
-01:30;Masters Cincinnati 3ª Ronda;F. Auger-Aliassime;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
+01:10;Masters Cincinnati 3ª Ronda;F. Auger-Aliassime;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
+01:15;WTA Cincinnati 3ª Ronda;J. Pegula;T. Townsend;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+04:15;Masters Cincinnati 3ª Ronda;F. Tiafoe;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
 08:10;Supercars Championship;Symmons Plains Raceway;Carrera 1;DAZN (Regístrate);
 10:50;MotoGP;G.P. Austria (Red Bull Ring);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 12:15;MotoE;G.P. Austria (Red Bull Ring);Carrera 1;MotoGP Videopass;DAZN (Regístrate);DAZN 3 (M196);
