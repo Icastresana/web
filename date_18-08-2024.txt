@@ -34,5 +34,5 @@
 20:30;Europeo Femenino Sub-16 Fase de grupos;Letonia;Polonia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Montenegro;Bélgica;FIBA YouTube;
 20:30;NASCAR Cup Series;Michigan International Speedway (Brooklyn);Carrera;DAZN (Regístrate);
+21:00;Masters Cincinnati Semifinal 1 ATP Masters 1000;J. Sinner;A. Zverev;ATP Tennis TV;M+ Deportes (63);
 21:30;La Liga EA Sports;Mallorca;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
-23:00;Masters Cincinnati;Semifinal 1;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
