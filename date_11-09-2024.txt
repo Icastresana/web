@@ -1,7 +1,7 @@
 02:00;Dana White Contender Series;Semana 5;UFC Apex Centre (Las Vegas);MAX;
-02:00;WTA Torneo de Guadalajara 1ª Ronda;A. Eala;M. Bouzkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-03:30;WTA Torneo de Guadalajara 1ª Ronda;E. Bektas;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+03:15;WTA Torneo de Guadalajara 1ª Ronda;A. Eala;M. Bouzkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 05:00;Davis Cup Finals Fase de grupos Partido 1;Estados Unidos;Chile;M+ Deportes 4 (191);
+05:10;WTA Torneo de Guadalajara 1ª Ronda;E. Bektas;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 07:00;Davis Cup Finals Fase de grupos Partido 2;Estados Unidos;Chile;M+ Deportes 4 (191);
 09:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Estados Unidos;Chile;M+ Deportes 4 (191);
 10:00;Rotterdam Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
