@@ -1,11 +1,11 @@
 02:00;Título Mundial Peso Supermediano;S. Canelo Álvarez;E. Berlanga;DAZN (Regístrate);
 04:00;UFC UFC 306;S. O'Malley;M. Dvalishvili;MAX;
 06:05;Supercars Championship;Sandown Raceway;Carrera;DAZN (Regístrate);
-11:00;ITF Torneo de Madrid;Final;ITF M15;La Otra (Madrid);
 11:30;Copa Andalucía;Final;Andalucía TV;
 12:00;Copa de España Fase de grupos;Real Betis Baloncesto;CB Morón;FEB TV;
 12:00;Copa de España Fase de grupos;TAU Castelló;Fibwi Palma;FEB TV;
 12:00;FIFA Copa Mundial Futsal Fase de grupos;Nueva Zelanda;Libia;FIFA+;
+12:00;ITF Torneo de Madrid Final;D. Mérida Aguilar;G. Dalmasso;La Otra (Madrid);
 13:00;Copa Intercontinental FIBA Final;Unicaja Málaga;G League Ignite;FIBA YouTube;101 TV (Málaga);
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Afganistán;Angola;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Argentina;Ucrania;FIFA+;
