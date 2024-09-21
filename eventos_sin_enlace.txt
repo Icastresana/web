@@ -14,6 +14,7 @@
 12:30;WTA Torneo de Tailandia Semifinal 2 WTA 250;A. Hartono;L. Siegemund;WTA TV;DAZN (Regístrate);
 13:30;Torneo de Hangzhou 2ª Ronda;Zh. Zhang;M. Bellucci;ATP Tennis TV;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Kazajistán;Nueva Zelanda;FIFA+;
+15:45;Primus Classic;UCI ProSeries;MAX;
 16:00;Premier League;Fulham;Newcastle;DAZN (Regístrate);
 16:00;Premier League;Leicester City;Everton;DAZN (Regístrate);
 16:00;Premier League;Southampton;Ipswich Town;DAZN (Regístrate);

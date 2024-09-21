@@ -24,12 +24,14 @@
 13:45;Moto2;G.P. Emilia Romagna (Misano);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 14:00;La Liga EA Sports;Real Valladolid;Real Sociedad;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 14:00;Superbike;G.P. Italia (Cremona);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 4 (M197);RTVE Play;
+14:25;Tour de Luxemburgo;Etapa 4;Differdange › Differdange (15,5 km);MAX;DAZN (Regístrate);Eurosport 2;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Kazajistán;Nueva Zelanda;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Libia;España;Teledeporte;RTVE Play;
 15:00;Fórmula 1;G.P. Singapur (Singapur);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 15:00;Laver Cup Partido 6;C. Alcaraz;B. Shelton;MAX;DAZN (Regístrate);Eurosport 1;
 15:00;MotoGP;G.P. Emilia Romagna (Misano);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:15;Supersport;G.P. Italia (Cremona);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 4 (M197);RTVE Play;
+15:45;Primus Classic;UCI ProSeries;MAX;
 16:00;Premier League;Aston Villa;Wolverhampton;DAZN (Regístrate);DAZN 4 (M197);
 16:00;Premier League;Fulham;Newcastle;DAZN (Regístrate);
 16:00;Premier League;Leicester City;Everton;DAZN (Regístrate);
