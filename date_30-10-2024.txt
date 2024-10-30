@@ -1,7 +1,5 @@
-00:00;WTA Torneo de Mérida 1ª Ronda;R. Zarazúa;A. Urhobo;WTA TV;
 00:30;NBA Liga Regular;Brooklyn Nets;Denver Nuggets;M+ Deportes (63);
 00:30;NBA Liga Regular;Minnesota Timberwolves;Dallas Mavericks;NBA League Pass;
-01:30;WTA Torneo de Mérida 1ª Ronda;P. Kudermetova;N. Podoroska;WTA TV;
 02:00;NBA Liga Regular;Utah Jazz;Sacramento Kings;NBA League Pass;
 03:00;NBA Liga Regular;Golden State Warriors;New Orleans Pelicans;NBA League Pass;
 05:00;WTA Torneo de Jiujiang 2ª Ronda;M. Bouzkova;X. Yao;WTA TV;
@@ -17,6 +15,7 @@
 17:00;Eurocup Women Liga Regular;Panathinaikos BC;CB Jairis;FIBA YouTube;
 17:00;Eurocup Women;KP Brno;Uniao Sportiva Azoris;FIBA YouTube;
 17:00;FIBA Europe Cup;BC Kutaisi 2010;BC Prievidza;FIBA YouTube;
+17:00;WTA Torneo de Mérida 1ª Ronda;P. Kudermetova;N. Podoroska;WTA TV;
 18:00;Basketball Champions League Liga Regular;Maccabi Ironi Ramat Gan;Telekom Baskets Bonn;DAZN (Regístrate);
 18:00;Eurocup Women Liga Regular;Galatasaray Istanbul;BAXI Ferrol;FIBA YouTube;TVG2 (Galicia);
 18:00;Eurocup Women;Besiktas JK Istanbul;GEAS Basket;FIBA YouTube;
@@ -38,6 +37,7 @@
 18:30;Eurocup Women;Sopron Basket;Bodrum Basketbol;FIBA YouTube;
 18:30;FIBA Europe Cup Liga Regular;Frutti Extra Bursaspor;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;Aragón TV;
 18:30;FIBA Europe Cup;Keravnos BC;Tofas Bursa;FIBA YouTube;
+18:30;WTA Torneo de Mérida 1ª Ronda;S. Sorribes;AS. Sánchez;WTA TV;
 19:00;Copa del Rey 1ª Ronda;CD Ibiza Islas Pitiusas;Nástic Tarragona;Canal por confirmar;
 19:00;Copa del Rey 1ª Ronda;Chiclana CF;Osasuna;M+ LaLiga TV 3 (M167 O270);LaLiga TV M4;
 19:00;Copa del Rey 1ª Ronda;Ciudad de Lucena;Leganés;M+ LaLiga TV 4 (M168 O271);
@@ -73,6 +73,7 @@
 20:00;Eurocup Women;ASVEL Lyon-Villeurbanne;AEL Limassol BC;FIBA YouTube;
 20:00;Eurocup Women;Castors Braine;Rutronik Stars Keltern;FIBA YouTube;
 20:00;FIBA Europe Cup;Telenet Giants Antwerp;BC Constanta;FIBA YouTube;
+20:00;WTA Torneo de Mérida 1ª Ronda;R. Zarazúa;A. Urhobo;WTA TV;
 20:00;WTA Torneo de Mérida;2ª Ronda;WTA 250;WTA TV;
 20:15;Euroliga Liga Regular;Panathinaikos BC;ASVEL Lyon-Villeurbanne;M+ Deportes 5 (192);
 20:30;Copa del Rey 1ª Ronda;CD Coria;Elche;Canal por confirmar;
