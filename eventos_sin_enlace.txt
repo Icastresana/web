@@ -15,8 +15,14 @@
 08:00;WTA Torneo de Jiujiang 2ª Ronda;S. Wei;R. Sramkova;WTA TV;DAZN (Regístrate);
 08:30;WTA Torneo de Hong Kong 2ª Ronda;S. Kenin;J. Ponchet;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 10:00;WTA Torneo de Jiujiang 2ª Ronda;A. Bondar;M. Trevisan;WTA TV;DAZN (Regístrate);
+11:00;Masters París 3ª Ronda;J. Thompson;A. Mannarino;ATP Tennis TV;
 11:30;WTA Torneo de Hong Kong 2ª Ronda;L. Fernández;K. Birrell;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+12:30;Masters París 3ª Ronda;S. Tsitsipas;F. Cerúndolo;ATP Tennis TV;
 13:00;Campeonato del Mundo;1/4 de Final;International Padel Federation YouTube;Red Bull TV;
+13:30;Masters París 3ª Ronda;K. Khachanov;A. Popyrin;ATP Tennis TV;
+16:00;Masters París 3ª Ronda;A. De Miñaur;J. Draper;ATP Tennis TV;
+16:00;Masters París 3ª Ronda;A. Zverev;A. Fils;ATP Tennis TV;
+17:30;Masters París 3ª Ronda;A. Cazaux;H. Rune;ATP Tennis TV;
 19:00;Copa del Rey 1ª Ronda;UD Barbastro;Amorebieta;Aragón TV;
 19:00;FIBA Europe Cup;Patrioti Levice;Anorthosis Famagusta BC;FIBA YouTube;
 20:00;Copa del Rey 1ª Ronda;Real Ávila;Real Oviedo;TPA 1 (Asturias);

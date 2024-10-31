@@ -17,13 +17,19 @@
 08:30;WTA Torneo de Hong Kong 2ª Ronda;S. Kenin;J. Ponchet;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 10:00;WTA Torneo de Jiujiang 2ª Ronda;A. Bondar;M. Trevisan;WTA TV;DAZN (Regístrate);
 11:00;Lanzarote Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;
-11:00;Masters París;3ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 4 (191);
+11:00;Masters París 3ª Ronda;J. Thompson;A. Mannarino;ATP Tennis TV;
 11:30;WTA Torneo de Hong Kong 2ª Ronda;L. Fernández;K. Birrell;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+12:30;Masters París 3ª Ronda;S. Tsitsipas;F. Cerúndolo;ATP Tennis TV;
 13:00;Campeonato del Mundo;1/4 de Final;International Padel Federation YouTube;Red Bull TV;
+13:30;Masters París 3ª Ronda;K. Khachanov;A. Popyrin;ATP Tennis TV;
+16:00;Masters París 3ª Ronda;A. De Miñaur;J. Draper;ATP Tennis TV;
+16:00;Masters París 3ª Ronda;A. Zverev;A. Fils;ATP Tennis TV;
+17:30;Masters París 3ª Ronda;A. Cazaux;H. Rune;ATP Tennis TV;
 19:00;Copa del Rey 1ª Ronda;San Tirso SD;Espanyol;M+ LaLiga TV 3 (M167 O270);LaLiga TV M4;
 19:00;Copa del Rey 1ª Ronda;UD Barbastro;Amorebieta;Aragón TV;
 19:00;Copa del Rey 1ª Ronda;UE Vic;At. Madrid;Teledeporte;RTVE Play;
 19:00;FIBA Europe Cup;Patrioti Levice;Anorthosis Famagusta BC;FIBA YouTube;
+19:00;Masters París 3ª Ronda;U. Humbert;C. Alcaraz;ATP Tennis TV;M+ Deportes 2 (64);
 20:00;Copa del Rey 1ª Ronda;Real Ávila;Real Oviedo;TPA 1 (Asturias);
 20:00;Copa del Rey 1ª Ronda;Tudelano;CD Minera;Canal por confirmar;
 20:00;Euroliga Liga Regular;ALBA Berlin;Anadolu Efes Istanbul;M+ Deportes 4 (191);
@@ -32,6 +38,7 @@
 20:15;Euroliga Liga Regular;Olympiacos Piraeus;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;Copa del Rey 1ª Ronda;Don Benito;FC Andorra;Canal por confirmar;
 20:30;Euroliga Liga Regular;AX Olimpia Milano;Virtus Bologna;M+ Deportes 3 (65);
+20:30;Masters París 3ª Ronda;G. Dimitrov;A. Rinderknech;ATP Tennis TV;M+ Deportes 2 (64);
 21:00;Copa del Rey 1ª Ronda;CD Alfaro;CD Tenerife;TV Canaria;
 21:00;Copa del Rey 1ª Ronda;CD Cuarte;Racing Ferrol;TVG2 (Galicia);Aragón TV;
 21:00;Copa del Rey 1ª Ronda;CD Estepona;Málaga;Canal por confirmar;
