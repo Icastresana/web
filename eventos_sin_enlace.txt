@@ -10,9 +10,12 @@
 08:50;WTA Torneo de Jiujiang 1/4 de Final;M. Trevisan;R. Sramkova;WTA TV;DAZN (Regístrate);
 10:55;WTA Torneo de Jiujiang 1/4 de Final;M. Bouzkova;K. Rakhimova;WTA TV;DAZN (Regístrate);
 11:40;WTA Torneo de Hong Kong 1/4 de Final;D. Shnaider;S. Lamens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+12:00;Mundial Femenino Semifinales;Argentina;Italia;International Padel Federation YouTube;Red Bull TV;
+12:00;Mundial Femenino Semifinales;España;Portugal;International Padel Federation YouTube;Red Bull TV;
 12:35;WTA Torneo de Jiujiang 1/4 de Final;M. Sawangkaew;L. Siegemund;WTA TV;DAZN (Regístrate);
-13:00;Campeonato del Mundo;Semifinales;International Padel Federation YouTube;Red Bull TV;
 13:50;WTA Torneo de Hong Kong 1/4 de Final;L. Fernández;B. Pera;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+16:00;Campeonato del Mundo Semifinales;Argentina;Portugal;International Padel Federation YouTube;Red Bull TV;
+16:00;Campeonato del Mundo Semifinales;España;Italia;International Padel Federation YouTube;Red Bull TV;
 19:00;Primera Federación Futsal;Barça FS;AD Sala 10 Zaragoza;FEF TV;Esport3 (Cataluña);
 19:30;Primera Federación Futsal;Osasuna Magna;Noia Portus Apostoli FS;FEF TV;
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;FC Bayern Basketball;Canal por confirmar;
