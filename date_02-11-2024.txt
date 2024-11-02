@@ -7,11 +7,11 @@
 01:00;NBA Liga Regular;New Orleans Pelicans;Indiana Pacers;NBA League Pass;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 01:00;Velada Peso Superligero;J. Ortiz;C. Mino;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 02:00;Velada Peso Welter;T. Smalls;Se. Martin;DAZN (Regístrate);
-02:00;WTA Torneo de Mérida 1/4 de Final;N. Stojanovic;P. Kudermetova;WTA TV;DAZN (Regístrate);
 02:30;NBA Liga Regular;Minnesota Timberwolves;Denver Nuggets;NBA League Pass;
+02:30;WTA Torneo de Mérida 1/4 de Final;N. Stojanovic;P. Kudermetova;WTA TV;DAZN (Regístrate);
 03:00;NBA Liga Regular;Portland Trail Blazers;Oklahoma C. Thunder;NBA League Pass;
-03:30;WTA Torneo de Mérida 1/4 de Final WTA 250;S. Sorribes;TBD;WTA TV;DAZN (Regístrate);
 03:50;MotoGP;G.P. Malasia (Sepang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
+05:20;WTA Torneo de Mérida 1/4 de Final WTA 250;S. Sorribes;A. Korneeva;WTA TV;DAZN (Regístrate);
 05:50;Moto3;G.P. Malasia (Sepang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 06:45;Moto2;G.P. Malasia (Sepang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 06:45;Saitama Criterium;By Le Tour de France;MAX;DAZN (Regístrate);Eurosport 1;

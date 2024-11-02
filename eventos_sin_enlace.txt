@@ -6,10 +6,10 @@
 00:30;NBA Liga Regular;Toronto Raptors;Los Angeles Lakers;NBA League Pass;
 01:00;Velada Peso Superligero;J. Ortiz;C. Mino;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 02:00;Velada Peso Welter;T. Smalls;Se. Martin;DAZN (Regístrate);
-02:00;WTA Torneo de Mérida 1/4 de Final;N. Stojanovic;P. Kudermetova;WTA TV;DAZN (Regístrate);
 02:30;NBA Liga Regular;Minnesota Timberwolves;Denver Nuggets;NBA League Pass;
+02:30;WTA Torneo de Mérida 1/4 de Final;N. Stojanovic;P. Kudermetova;WTA TV;DAZN (Regístrate);
 03:00;NBA Liga Regular;Portland Trail Blazers;Oklahoma C. Thunder;NBA League Pass;
-03:30;WTA Torneo de Mérida 1/4 de Final WTA 250;S. Sorribes;TBD;WTA TV;DAZN (Regístrate);
+05:20;WTA Torneo de Mérida 1/4 de Final WTA 250;S. Sorribes;A. Korneeva;WTA TV;DAZN (Regístrate);
 12:00;Mundial Femenino;Final;International Padel Federation YouTube;Red Bull TV;
 16:00;Campeonato del Mundo;Final;International Padel Federation YouTube;Red Bull TV;
 16:00;Premier League;Southampton;Everton;DAZN (Regístrate);
