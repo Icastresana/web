@@ -10,8 +10,8 @@
 02:30;WTA Torneo de Mérida 1/4 de Final;N. Stojanovic;P. Kudermetova;WTA TV;DAZN (Regístrate);
 03:00;NBA Liga Regular;Portland Trail Blazers;Oklahoma C. Thunder;NBA League Pass;
 05:20;WTA Torneo de Mérida 1/4 de Final WTA 250;S. Sorribes;A. Korneeva;WTA TV;DAZN (Regístrate);
-12:00;Mundial Femenino;Final;International Padel Federation YouTube;Red Bull TV;
-16:00;Campeonato del Mundo;Final;International Padel Federation YouTube;Red Bull TV;
+11:00;Mundial Femenino Final;España;Argentina;International Padel Federation YouTube;Red Bull TV;
+15:30;Campeonato del Mundo Final;España;Argentina;International Padel Federation YouTube;Red Bull TV;
 16:00;Premier League;Southampton;Everton;DAZN (Regístrate);
 17:00;Primera FEB Liga Regular;Oviedo Baloncesto;Baloncesto Fuenlabrada;LaLiga+ Plus;
 18:00;Campeonato de España Peso Superpluma;C. Eusse;Á. De la Rosa;GolStadium Premium (acceder);GolStadium (acceder);
