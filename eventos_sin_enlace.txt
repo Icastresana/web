@@ -15,6 +15,7 @@
 14:30;Torneo de Metz 1ª Ronda;S. Nagal;C. Moutet;ATP Tennis TV;
 15:00;Torneo de Belgrado 1ª Ronda;J. Shang;F. Marozsan;ATP Tennis TV;
 16:00;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
+16:15;LaLiga Hypermotion;UD Almería;Córdoba;APLAZADO;
 16:30;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
 18:15;Lega Serie A Liga Regular;Dolomiti Energia Trento;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;LaLiga Hypermotion;CD Castellón;Racing Ferrol;APLAZADO;
