@@ -16,6 +16,7 @@
 06:15;Moto2;G.P. Malasia (Sepang);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 08:00;MotoGP;G.P. Malasia (Sepang);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 09:30;WTA Torneo de Jiujiang Final WTA 250;V. Golubic;R. Sramkova;WTA TV;DAZN (Regístrate);DAZN 4 (M197);MAX;
+11:30;Fórmula 1;G.P. Brasil (Interlagos);Clasificación;DAZN (Regístrate);MAX;DAZN F1 (M69);
 12:00;Primera FEB Liga Regular;CB Zamora;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
 12:00;Segunda FEB Liga Regular;Melilla Sport Capital;Caja 87 Basket;TV Melilla;
 12:30;Liga Endesa Liga Regular;Barça Basket;Básquet Coruña;M+ Deportes (63);
@@ -32,11 +33,11 @@
 16:00;WTA Finals Round Robin;C. Gauff;J. Pegula;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 16:15;La Liga EA Sports;FC Barcelona;Espanyol;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;UD Almería;Córdoba;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+16:30;Fórmula 1;G.P. Brasil (Interlagos);Carrera;DAZN (Regístrate);MAX;DAZN F1 (M69);
 16:30;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
 17:00;Liga Endesa Liga Regular;Dreamland Gran Canaria;Baskonia;M+ Deportes 3 (65);
 17:00;Liga Endesa Liga Regular;Força Lleida;MoraBanc Andorra;M+ Deportes 4 (191);
 17:30;Premier League;Manchester Utd.;Chelsea;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
-18:00;Fórmula 1;G.P. Brasil (Interlagos);Carrera;DAZN (Regístrate);MAX;DAZN F1 (M69);
 18:15;Lega Serie A Liga Regular;Dolomiti Energia Trento;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;La Liga EA Sports;Sevilla FC;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;CD Castellón;Racing Ferrol;APLAZADO;
