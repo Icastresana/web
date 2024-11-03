@@ -12,11 +12,11 @@
 12:00;Segunda FEB Liga Regular;Melilla Sport Capital;Caja 87 Basket;TV Melilla;
 12:30;Liga Endesa Liga Regular;Valencia Basket;La Laguna Tenerife;APLAZADO;
 12:30;Primera FEB Liga Regular;Real Betis Baloncesto;FC Cartagena CB;LaLiga+ Plus;Marca.com;LaLiga+ TV (Orange 122);LALIGA+ YouTube;Marca YouTube;
-14:30;Torneo de Metz 1ª Ronda;S. Nagal;C. Moutet;ATP Tennis TV;
-15:00;Torneo de Belgrado 1ª Ronda;J. Shang;F. Marozsan;ATP Tennis TV;
-16:00;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
+15:05;Torneo de Metz 1ª Ronda;S. Nagal;C. Moutet;ATP Tennis TV;
+16:05;Torneo de Belgrado 1ª Ronda;J. Shang;F. Marozsan;ATP Tennis TV;
 16:15;LaLiga Hypermotion;UD Almería;Córdoba;APLAZADO;
-16:30;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
+17:00;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
+17:30;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
 18:15;Lega Serie A Liga Regular;Dolomiti Energia Trento;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;LaLiga Hypermotion;CD Castellón;Racing Ferrol;APLAZADO;
 19:30;Lega Serie A Liga Regular;Virtus Bologna;Treviso Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
