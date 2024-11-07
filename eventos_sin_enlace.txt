@@ -10,11 +10,11 @@
 04:00;NBA Liga Regular;Los Angeles Clippers;Philadelphia 76ers;NBA League Pass;
 04:00;NBA Liga Regular;Sacramento Kings;Toronto Raptors;NBA League Pass;
 09:00;Dubai Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;Torneo de Belgrado 1/4 de Final;L. Klein;J. Lehecka;ATP Tennis TV;
-12:30;Torneo de Belgrado 1/4 de Final;C. O'Connell;D. Shapovalov;ATP Tennis TV;
-14:00;Torneo de Metz 1/4 de Final;C. Norrie;Z. Bergs;ATP Tennis TV;
-15:00;Torneo de Belgrado 1/4 de Final;L. Djere;F. Marozsan;ATP Tennis TV;
-16:30;Torneo de Belgrado 1/4 de Final;F. Cerúndolo;H. Medjedovic;ATP Tennis TV;
+11:10;Torneo de Belgrado 1/4 de Final;L. Klein;J. Lehecka;ATP Tennis TV;
+13:30;Torneo de Belgrado 1/4 de Final;C. O'Connell;D. Shapovalov;ATP Tennis TV;
+14:10;Torneo de Metz 1/4 de Final;C. Norrie;Z. Bergs;ATP Tennis TV;
+15:10;Torneo de Belgrado 1/4 de Final;L. Djere;F. Marozsan;ATP Tennis TV;
+16:35;Torneo de Belgrado 1/4 de Final;F. Cerúndolo;H. Medjedovic;ATP Tennis TV;
 17:00;Eurobasket Femenino Fase de Clasificación;Turquía;Rumanía;FIBA YouTube;
 17:30;Eurobasket Femenino Fase de Clasificación;Finlandia;Eslovenia;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;Bosnia;Suiza;FIBA YouTube;
