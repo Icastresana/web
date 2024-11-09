@@ -25,5 +25,5 @@
 19:00;Primera Federación Futsal;Movistar Inter;Jaén FS;FEF TV;
 20:00;Primera Federación Futsal;Viña Albali Valdepeñas;ElPozo Murcia;FEF TV;
 20:15;Primera FEB Liga Regular;San Pablo Burgos;Gipuzkoa Basket;LaLiga+ Plus;La 8 Burgos;
-20:30;Lega Serie A Liga Regular;Dolomiti Energia Trento;Trieste Pallacanestro;DAZN (Regístrate);
+20:30;Lega Serie A Liga Regular;Dolomiti Energia Trento;Trieste Pallacanestro;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 23:00;NBA Liga Regular;San Antonio Spurs;Utah Jazz;NBA League Pass;
