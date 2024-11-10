@@ -3,7 +3,6 @@
 01:30;NBA Liga Regular;Atlanta Hawks;Chicago Bulls;Movistar Plus+ (M7);M+ Deportes (63);
 01:30;NBA Liga Regular;Cleveland Cavaliers;Brooklyn Nets;NBA League Pass;
 04:30;NBA Liga Regular;Los Angeles Clippers;Toronto Raptors;NBA League Pass;
-08:50;Singapur Criterium;By Le Tour de France;MAX;DAZN (Regístrate);Eurosport 2;
 12:00;Primera FEB Liga Regular;CB Morón;Basquet Menorca;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;IB3 (Baleares);
 12:30;Liga Endesa Liga Regular;Basquet Girona;Bilbao Basket;M+ Deportes 3 (65);
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Dreamland Gran Canaria;M+ Deportes (63);
