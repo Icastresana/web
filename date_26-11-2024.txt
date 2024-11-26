@@ -15,9 +15,12 @@
 18:45;Champions League Fase Liga;Sparta Praha;At. Madrid;M+ Liga de Campeones (M60 O115);LaLiga TV Bar;
 19:00;Copa del Rey 1ª Ronda;Manises CF;Getafe;M+ LaLiga TV (M54-O110);LaLiga TV M2;
 19:00;Copa del Rey 1ª Ronda;Parla Escuela;Valencia CF;M+ Copa del Rey (M52 O107);LaLiga TV M3;
-20:00;Copa del Rey 4ª Ronda;CD Leganés FS;Barça FS;Canal por confirmar;
-20:30;Copa del Rey 4ª Ronda;Málaga FS;Movistar Inter;Canal por confirmar;
+20:00;Copa del Rey 4ª Ronda;CD Leganés FS;Barça FS;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py id_09-11-2024.txt index.html ipfs_scraper.py SIN TV EN DIRECTO *;
+20:00;Copa del Rey 4ª Ronda;Lauburu KE Ibarra;Manzanares FS;Lauburu K.E. Komunikazioa YouTube;
+20:30;Copa del Rey 4ª Ronda;Melistar FS;Jaén FS;Melistar F.S. YouTube;
+20:30;Copa del Rey 4ª Ronda;Málaga FS;Movistar Inter;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py id_09-11-2024.txt index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:30;LaLiga Hypermotion;UD Almería;Córdoba;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion (M56 O 119);LaLiga TV M4;
+20:45;Copa del Rey 4ª Ronda;Alcalá FS;AD Sala 10 Zaragoza;VivamóvilTV;
 21:00;Champions League Fase Liga;Bayer Leverkusen;Red Bull Salzburg;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 6 (M183 O278);
 21:00;Champions League Fase Liga;FC Barcelona;Stade Brestois;M+ Liga de Campeones (M60 O115);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
 21:00;Champions League Fase Liga;FC Bayern;PSG;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);
