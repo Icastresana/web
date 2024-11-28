@@ -11,6 +11,7 @@
 03:00;NBA Liga Regular;Phoenix Suns;Brooklyn Nets;NBA League Pass;
 03:00;NBA Liga Regular;Utah Jazz;Denver Nuggets;NBA League Pass;
 04:00;NBA Liga Regular;Golden State Warriors;Oklahoma C. Thunder;NBA League Pass;
+16:00;Velada Peso Medio;S. Albaher;A. Al-Fakhri;DAZN (Regístrate);
 17:00;Eurocup Liga Regular;Bahçeşehir Koleji;Joventut Badalona;Esport3 (Cataluña);
 17:30;Futsal Champions League Ronda Élite;Catania C5;United Galati;La 7 YouTube;
 18:00;Eurocup Women Liga Regular;Besiktas JK Istanbul;Basket Namur Capitale;FIBA YouTube;
@@ -19,6 +20,7 @@
 18:00;Eurocup Women Liga Regular;TTT Riga;Kangoeroes Mechelen;FIBA YouTube;
 18:00;Eurocup Women Liga Regular;Zaglebie Sosnowiec;Dinamo Sassari;FIBA YouTube;
 18:30;Eurocup Women Liga Regular;Rutronik Stars Keltern;Peli-Karhut Basketball;FIBA YouTube;
+19:00;Velada Peso Supergallo;A. Katompa;S. Ngebinyana;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 19:30;Futsal Champions League Ronda Élite;Palma Futsal;Futsal Klub Lučenec;Esports IB3 YouTube;
 20:30;Eurocup Women Liga Regular;Basket Montpellier;BCF Elfic Fribourg;FIBA YouTube;
 20:30;Eurocup Women Liga Regular;Tarbes GB;Iraklis BC;FIBA YouTube;
