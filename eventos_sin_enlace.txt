@@ -25,7 +25,5 @@
 20:30;Copa del Rey 2ª Ronda;Racing Santander;Sporting Gijón;TPA 1 (Asturias);
 20:30;FIBA Europe Cup Segunda Ronda;Dinamo Sassari;Bilbao Basket;FIBA YouTube;ETB4 (País Vasco);
 20:30;FIBA Europe Cup Segunda Ronda;Spirou Charleroi;Fribourg Olympic;FIBA YouTube;
-20:30;Premier League;Everton;Wolverhampton;DAZN (Regístrate);
 21:00;Copa del Rey 2ª Ronda;Pontevedra;Villarreal;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 21:00;Copa del Rey 2ª Ronda;Zamora;CD Tenerife;TV Canaria;
-21:15;Premier League;Aston Villa;Brentford;DAZN (Regístrate);

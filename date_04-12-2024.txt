@@ -31,10 +31,6 @@
 20:30;Euroliga Liga Regular;AX Olimpia Milano;Crvena Zvezda MTS Belgrade;M+ Deportes 3 (65);
 20:30;FIBA Europe Cup Segunda Ronda;Dinamo Sassari;Bilbao Basket;FIBA YouTube;ETB4 (País Vasco);
 20:30;FIBA Europe Cup Segunda Ronda;Spirou Charleroi;Fribourg Olympic;FIBA YouTube;
-20:30;Premier League;Everton;Wolverhampton;DAZN (Regístrate);
-20:30;Premier League;Manchester City;Nottingham Forest;DAZN (Regístrate);M+ Vamos (8 y 53);M+ #Vamos Bar 2 (305);Movistar+ Lite;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);M+ #Vamos Bar (304);M+ Liga de Campeones (M60 O115);
-20:30;Premier League;Newcastle;Liverpool;DAZN (Regístrate);DAZN 3 (M196);
-20:30;Premier League;Southampton;Chelsea;DAZN (Regístrate);DAZN 4 (M197);
 20:45;Eurocup Liga Regular;Valencia Basket;Hapoel Jerusalem;Movistar Plus+ 2 (M176);M+ Deportes (63);
 20:45;Euroliga Liga Regular;Virtus Bologna;ALBA Berlin;M+ Deportes 4 (191);
 21:00;Copa del Rey 2ª Ronda;CD Estepona;Leganés;M+ LaLiga TV 3 (M167 O270);LaLiga TV M6;
@@ -43,5 +39,3 @@
 21:00;Copa del Rey 2ª Ronda;UD Logroñés;Girona;M+ LaLiga TV (M54-O110);LaLiga TV M3;
 21:00;Copa del Rey 2ª Ronda;Zamora;CD Tenerife;TV Canaria;
 21:00;La Liga EA Sports;Athletic Club;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);DAZN 2 (M71);LaLiga TV Bar;
-21:15;Premier League;Arsenal;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-21:15;Premier League;Aston Villa;Brentford;DAZN (Regístrate);
