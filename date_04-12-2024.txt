@@ -42,6 +42,6 @@
 21:00;Copa del Rey 2ª Ronda;Pontevedra;Villarreal;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 21:00;Copa del Rey 2ª Ronda;UD Logroñés;Girona;M+ LaLiga TV (M54-O110);LaLiga TV M3;
 21:00;Copa del Rey 2ª Ronda;Zamora;CD Tenerife;TV Canaria;
-21:00;La Liga EA Sports;Athletic Club;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
+21:00;La Liga EA Sports;Athletic Club;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);DAZN 2 (M71);LaLiga TV Bar;
 21:15;Premier League;Arsenal;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 21:15;Premier League;Aston Villa;Brentford;DAZN (Regístrate);
