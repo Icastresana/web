@@ -1,13 +1,7 @@
 01:00;Partido de Exhibición Nueva York (Estados Unidos);J. Pegula;E. Navarro;Tennis Channel (Orange 123);
-01:30;NBA Liga Regular;Boston Celtics;Detroit Pistons;NBA League Pass;
-01:30;NBA Liga Regular;Brooklyn Nets;Indiana Pacers;NBA League Pass;
-01:30;NBA Liga Regular;Philadelphia 76ers;Orlando Magic;NBA League Pass;
-02:00;NBA Liga Regular;Milwaukee Bucks;Atlanta Hawks;NBA League Pass;
 03:00;Partido de Exhibición Nueva York (Estados Unidos);C. Alcaraz;B. Shelton;Tennis Channel (Orange 123);
-04:30;NBA Liga Regular;Los Angeles Clippers;Minnesota Timberwolves;NBA League Pass;
 10:00;Milan Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 20:00;Copa del Rey 2ª Ronda;Barakaldo;Racing Ferrol;TVG2 (Galicia);
 20:00;Copa del Rey 2ª Ronda;FC Andorra;FC Cartagena;Canal por confirmar;
 20:00;Copa del Rey 2ª Ronda;Marbella;Burgos CF;Canal por confirmar;
 20:00;Copa del Rey 2ª Ronda;Ponferradina;CD Castellón;Canal por confirmar;
-20:30;Primera FEB Liga Regular;Zunder Palencia;Monbus Obradoiro;LaLiga+ Plus;
