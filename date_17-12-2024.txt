@@ -8,6 +8,8 @@
 18:30;Basketball Champions League Liga Regular;AEK BC;Telekom Baskets Bonn;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;VEF Riga;Maccabi Ironi Ramat Gan;DAZN (Regístrate);
 19:00;Euroliga Liga Regular;AS Monaco Basket;FC Bayern Basketball;M+ Deportes 3 (65);
+19:00;LaLiga Hypermotion;Albacete;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV Bar;
+19:00;LaLiga Hypermotion;Granada CF;FC Cartagena;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 20:00;Basketball Champions League Liga Regular;Filou Oostende;Petkimspor Kulübü;DAZN (Regístrate);
 20:00;Basketball Champions League Liga Regular;King Szczecin;Unicaja Málaga;101 TV (Málaga);DAZN (Regístrate);
 20:00;Copa de la Reina 1/8 de final;Naturpellet Segovia;Ourense FSF;RFEF.es;RFEF TV YouTube;
@@ -25,3 +27,5 @@
 20:45;Euroliga Liga Regular;ALBA Berlin;Zalgiris Kaunas;M+ Deportes 6 (193);
 20:45;Euroliga Liga Regular;BC Partizan Beograd;ASVEL Lyon-Villeurbanne;M+ Deportes 5 (192);
 21:00;Copa de la Reina 1/8 de final;LBTL Alcantarilla FS;Torreblanca Melilla;RFEF.es;RFEF TV YouTube;
+21:15;LaLiga Hypermotion;Córdoba;Eibar;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
+21:15;LaLiga Hypermotion;Real Zaragoza;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV Bar;
