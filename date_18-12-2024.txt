@@ -2,6 +2,7 @@
 02:30;NBA Cup Final;Milwaukee Bucks;Oklahoma C. Thunder;Movistar Plus+ (M7);M+ Deportes (63);
 12:00;Next Gen ATP Finals Round Robin;J. Shang;L. Van Assche;ATP Tennis TV;M+ Deportes 4 (191);
 13:30;Next Gen ATP Finals Round Robin;A. Michelsen;N. Basavareddy;ATP Tennis TV;M+ Deportes 4 (191);
+17:00;Eurocopa Fase de Clasificación;Alemania;Chipre;FIFA+;
 17:00;Eurocup Women Play-Off;BC Neptunas;Basket Montpellier;FIBA YouTube;
 17:00;Next Gen ATP Finals Round Robin;J. Mensik;L. Tien;ATP Tennis TV;M+ Deportes 4 (191);
 18:00;Eurocup Women Play-Off;Galatasaray Istanbul;Crvena Zvezda MTS Belgrade;FIBA YouTube;
