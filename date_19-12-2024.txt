@@ -1,4 +1,7 @@
+10:00;World Tennis League;Falcons;Hawks;Tennis Channel (Orange 123);
+13:00;Next Gen ATP Finals;Round Robin;ATP Tennis TV;M+ Deportes 4 (191);
 14:00;Master Final;1/4 Final Femenino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Ellas Vamos (66);M+ Deportes 2 (64);
+14:00;World Tennis League;Eagles;Kites;Tennis Channel (Orange 123);
 16:00;Master Final;1/4 Final Masculino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 17:00;Eurocup Women Play-Off;Olympiacos Piraeus;Peac Pecs;FIBA YouTube;
 18:00;Eurocup Women Play-Off;Besiktas JK Istanbul;Gorzów Basketball;FIBA YouTube;
