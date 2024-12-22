@@ -11,5 +11,6 @@
 03:00;NBA Liga Regular;Phoenix Suns;Detroit Pistons;NBA League Pass;
 12:00;Primera FEB Liga Regular;Baloncesto Fuenlabrada;Basquet Menorca;LaLiga+ Plus;
 12:00;Segunda Federación Futsal;Málaga FS;Full Energía Zaragoza;RFEF.es;RFEF TV YouTube;
+14:00;World Tennis League Final;Falcons;Hawks;Tennis Channel (Orange 123);
 17:00;Primera Federación Futsal;Ribera Navarra FS;AD Sala 10 Zaragoza;FEF TV;
 20:00;Lega Serie A Liga Regular;Dolomiti Energia Trento;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
