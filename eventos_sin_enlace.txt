@@ -22,5 +22,5 @@
 11:00;United Cup 1/4 de Final Partido 3 (Dobles);Italia;República Checa;ATP Tennis TV;Tennis Channel (Orange 123);
 11:30;Torneo de Hong Kong 1/4 de Final;K. Nishikori;C. Norrie;ATP Tennis TV;
 18:00;Eurocup Liga Regular;BC Wolves;Joventut Badalona;Esport3 (Cataluña);
-19:00;Copa del Rey 1/16 de Final;Pontevedra;Mallorca;M+ Copa del Rey (M52 O107);LaLiga TV M4;
+19:00;Copa del Rey 1/16 de Final Estadio Municipal de Pasarón, Pontevedra;Pontevedra;Mallorca;M+ Copa del Rey (M52 O107);LaLiga TV M4;
 21:00;Primera Federación Futsal;Jaén FS;Córdoba FS;FEF TV;
