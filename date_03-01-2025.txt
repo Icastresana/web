@@ -2,6 +2,7 @@
 01:30;NBA Liga Regular;Minnesota Timberwolves;Boston Celtics;NBA League Pass;
 01:30;WTA Torneo de Auckland 1/4 de Final;N. Osaka;H. Baptiste;WTA TV;
 02:00;NBA Liga Regular;Milwaukee Bucks;Brooklyn Nets;NBA League Pass;
+02:00;NBA Liga Regular;Oklahoma C. Thunder;Los Angeles Clippers;M+ Deportes (63);
 02:00;WTA Torneo de Brisbane 1/4 de Final;A. Kalinina;K. Birrell;WTA TV;
 03:30;Torneo de Brisbane 1/4 de Final;N. Jarry;J. Lehecka;ATP Tennis TV;
 04:00;NBA Liga Regular;Golden State Warriors;Philadelphia 76ers;NBA League Pass;
@@ -22,5 +23,14 @@
 11:00;United Cup 1/4 de Final Partido 3 (Dobles);Italia;República Checa;ATP Tennis TV;Tennis Channel (Orange 123);
 11:30;Torneo de Hong Kong 1/4 de Final;K. Nishikori;C. Norrie;ATP Tennis TV;
 18:00;Eurocup Liga Regular;BC Wolves;Joventut Badalona;Esport3 (Cataluña);
+18:45;Euroliga Liga Regular;Fenerbahce Istanbul;Anadolu Efes Istanbul;M+ Deportes 2 (64);
+19:00;Copa del Rey 1/16 de Final;Granada CF;Getafe;M+ LaLiga TV 3 (M167 O270);LaLiga TV M2;
 19:00;Copa del Rey 1/16 de Final;Pontevedra;Mallorca;M+ Copa del Rey (M52 O107);LaLiga TV M4;
+19:00;Copa del Rey 1/16 de Final;Racing Ferrol;Rayo Vallecano;M+ LaLiga TV 4 (M168 O271);LaLiga TV M3;
+20:15;Euroliga Liga Regular;Panathinaikos BC;Virtus Bologna;M+ Deportes 3 (65);
+20:15;Euroliga Liga Regular;Paris Basketball;Barça Basket;M+ Deportes (63);
+20:30;Euroliga Liga Regular;BC Partizan Beograd;Maccabi Tel Aviv BC;M+ Deportes 4 (191);
+21:00;Euroliga Liga Regular;Real Madrid Baloncesto;FC Bayern Basketball;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+21:00;La Liga EA Sports;Valencia CF;Real Madrid;Movistar Plus+ (M7);M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Jaén FS;Córdoba FS;FEF TV;
+21:00;Rally Dakar;Prólogo;Bisha › Bisha (50 km - SS: 29 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
