@@ -14,3 +14,4 @@
 15:00;BBL Liga Regular;ALBA Berlin;FC Bayern Basketball;LaLiga+ Plus;
 17:00;Lega Serie A Liga Regular;Pistoia Basket 2000;AX Olimpia Milano;DAZN App Gratis (Regístrate);DAZN (Regístrate);
 20:00;Lega Serie A Liga Regular;Reggio Emilia;Virtus Bologna;DAZN App Gratis (Regístrate);DAZN (Regístrate);
+23:30;Torneo de Auckland 1ª Ronda;L. Darderi;N. Borges;ATP Tennis TV;
