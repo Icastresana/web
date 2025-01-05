@@ -8,8 +8,8 @@
 04:30;NBA Liga Regular;Los Angeles Clippers;Atlanta Hawks;NBA League Pass;
 05:00;WTA Torneo de Auckland Final WTA 250;C. Tauson;N. Osaka;WTA TV;
 05:00;WTA Torneo de Brisbane Final WTA 500;A. Sabalenka;P. Kudermetova;WTA TV;
-09:30;Torneo de Brisbane Final ATP 250;R. Opelka;J. Lehecka;ATP Tennis TV;
 09:30;Torneo de Hong Kong Final ATP 250;K. Nishikori;A. Muller;ATP Tennis TV;
+10:10;Torneo de Brisbane Final ATP 250;R. Opelka;J. Lehecka;ATP Tennis TV;
 12:00;Primera FEB Liga Regular;Baloncesto Fuenlabrada;CB Tizona Burgos;LaLiga+ Plus;La 8 Burgos;
 15:00;BBL Liga Regular;ALBA Berlin;FC Bayern Basketball;LaLiga+ Plus;
 17:00;Lega Serie A Liga Regular;Pistoia Basket 2000;AX Olimpia Milano;DAZN App Gratis (Regístrate);DAZN (Regístrate);

@@ -11,8 +11,8 @@
 05:00;WTA Torneo de Brisbane Final WTA 500;A. Sabalenka;P. Kudermetova;WTA TV;
 07:30;United Cup Final Partido 1;C. Gauff;I. Swiatek;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 09:00;United Cup Final Partido 2;T. Fritz;H. Hurkacz;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
-09:30;Torneo de Brisbane Final ATP 250;R. Opelka;J. Lehecka;ATP Tennis TV;
 09:30;Torneo de Hong Kong Final ATP 250;K. Nishikori;A. Muller;ATP Tennis TV;
+10:10;Torneo de Brisbane Final ATP 250;R. Opelka;J. Lehecka;ATP Tennis TV;
 11:00;United Cup Final Partido 3 (Dobles);Estados Unidos;Polonia;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 12:00;Copa del Rey 1/16 de Final;Elche;UD Las Palmas;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
 12:00;Copa del Rey 1/16 de Final;Ourense CF;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV M2;
