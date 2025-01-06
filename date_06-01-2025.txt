@@ -20,4 +20,7 @@
 10:00;WTA Torneo de Hobart 1ª Ronda;V. Kudermetova;E. Cocciaretto;WTA TV;
 10:30;Torneo de Adelaida 1ª Ronda;Y. Nishioka;T. Kokkinakis;ATP Tennis TV;
 19:00;Copa del Rey 1/16 de Final;CD Minera;Real Madrid;La 1 TVE;RTVE Play;
+20:30;Liga Endesa Liga Regular;Baskonia;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
+21:00;Premier League;Wolverhampton;Nottingham Forest;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
+21:00;Rally Dakar;Etapa 2;Bisha › Bisha (1057 km - SS: 965 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 1;
 23:30;Torneo de Auckland 1ª Ronda;L. Nardi;F. Cobolli;ATP Tennis TV;
