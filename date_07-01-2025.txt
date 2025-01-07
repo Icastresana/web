@@ -40,9 +40,10 @@
 20:30;Copa de España 1/4 de Final;FC Cartagena CB;TAU Castelló;LaLiga+ Plus;
 20:30;Copa del Rey 1/8 de final;UD Ibiza FS;Viña Albali Valdepeñas;RFEF.es;RFEF TV YouTube;
 20:30;Eurocup Liga Regular;Valencia Basket;Türk Telekom Ankara;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-20:30;FIBA Europe Cup;Cholet Basket;Dinamo Sassari;FIBA YouTube;
+20:30;FIBA Europe Cup Segunda Ronda;Cholet Basket;Dinamo Sassari;FIBA YouTube;
 20:30;Liga Endesa Liga Regular;Basquet Girona;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
 20:45;Copa del Rey 1/8 de final;Noia Portus Apostoli FS;AD Sala 10 Zaragoza;RFEF.es;RFEF TV YouTube;
 21:00;Copa del Rey 1/16 de Final;Eldense;Valencia CF;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
 21:00;Rally Dakar;Etapa 3;Bisha › Al Henakiyah (845 km - SS: 496 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 1;
 21:30;LaLiga Hypermotion;CD Tenerife;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+23:30;Torneo de Auckland 2ª Ronda;N. Basavareddy;A. Tabilo;ATP Tennis TV;

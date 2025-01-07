@@ -36,5 +36,6 @@
 20:30;Basketball Champions League Play-In;Derthona Basket;Peristeri BC;DAZN (Regístrate);
 20:30;Copa de España 1/4 de Final;FC Cartagena CB;TAU Castelló;LaLiga+ Plus;
 20:30;Copa del Rey 1/8 de final;UD Ibiza FS;Viña Albali Valdepeñas;RFEF.es;RFEF TV YouTube;
-20:30;FIBA Europe Cup;Cholet Basket;Dinamo Sassari;FIBA YouTube;
+20:30;FIBA Europe Cup Segunda Ronda;Cholet Basket;Dinamo Sassari;FIBA YouTube;
 20:45;Copa del Rey 1/8 de final;Noia Portus Apostoli FS;AD Sala 10 Zaragoza;RFEF.es;RFEF TV YouTube;
+23:30;Torneo de Auckland 2ª Ronda;N. Basavareddy;A. Tabilo;ATP Tennis TV;
