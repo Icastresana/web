@@ -19,12 +19,13 @@
 05:10;Torneo de Adelaida 1ª Ronda;Y. Hanfmann;B. Nakashima;ATP Tennis TV;
 05:10;WTA Torneo de Adelaida 1ª Ronda;J. Ostapenko;M. Frech;WTA TV;Tennis Channel (Orange 123);
 06:00;Partido de Exhibición Melbourne (Australia);J. Sinner;A. Popyrin;MAX;
+06:40;Torneo de Auckland 1ª Ronda;P. Carreño;J. Mensik;ATP Tennis TV;
 07:10;Torneo de Adelaida 1ª Ronda;D. Goffin;R. Hijikata;ATP Tennis TV;
 08:40;WTA Torneo de Hobart 1ª Ronda;A. Anisimova;D. Saville;WTA TV;
 08:45;WTA Torneo de Adelaida 1ª Ronda;A. Kalinskaya;B. Bencic;WTA TV;Tennis Channel (Orange 123);
 09:10;Torneo de Adelaida 1ª Ronda;TM. Etcheverry;T. Schoolkate;ATP Tennis TV;
 10:20;WTA Torneo de Hobart 1ª Ronda;N. Parrizas Díaz;E. Mertens;WTA TV;
-10:30;WTA Torneo de Adelaida 1ª Ronda;D. Collins;O. Jabeur;WTA TV;Tennis Channel (Orange 123);
+11:20;WTA Torneo de Adelaida 1ª Ronda;D. Collins;O. Jabeur;WTA TV;Tennis Channel (Orange 123);
 18:00;Basketball Champions League Play-In;Galatasaray Istanbul;Saint-Quentin Basketball;DAZN (Regístrate);
 18:00;Basketball Champions League Play-In;Petkimspor Kulübü;Hapoel Holon;DAZN (Regístrate);
 19:00;Copa del Rey 1/8 de final;O Parrulo Ferrol;Jimbee Cartagena FS;RFEF.es;RFEF TV YouTube;
