@@ -8,6 +8,7 @@
 01:30;Torneo de Adelaida 1ª Ronda;A. Vukic;M. Giron;ATP Tennis TV;
 01:30;WTA Torneo de Adelaida 1ª Ronda;B. Haddad Maia;M. Keys;WTA TV;Tennis Channel (Orange 123);
 02:00;NBA Liga Regular;Chicago Bulls;San Antonio Spurs;NBA League Pass;
+02:00;NBA Liga Regular;Memphis Grizzlies;Dallas Mavericks;M+ Deportes (63);
 02:00;NBA Liga Regular;Minnesota Timberwolves;Los Angeles Clippers;NBA League Pass;
 02:00;WTA Torneo de Hobart 1ª Ronda;D. Yastremska;K. Volynets;WTA TV;
 02:30;Torneo de Auckland 1ª Ronda;P. Martínez;G. Monfils;ATP Tennis TV;
@@ -28,6 +29,8 @@
 18:00;Basketball Champions League Play-In;Galatasaray Istanbul;Saint-Quentin Basketball;DAZN (Regístrate);
 18:00;Basketball Champions League Play-In;Petkimspor Kulübü;Hapoel Holon;DAZN (Regístrate);
 19:00;Copa del Rey 1/8 de final;O Parrulo Ferrol;Jimbee Cartagena FS;RFEF.es;RFEF TV YouTube;
+19:00;Eurocup Liga Regular;Ratiopharm Ulm;Dreamland Gran Canaria;M+ Deportes 2 (64);
+19:30;Copa del Rey 1/8 de final;Osasuna Magna;Barça FS;Teledeporte;RTVE Play;Esport3 (Cataluña);
 20:00;Basketball Champions League Play-In;Nanterre 92;Filou Oostende;DAZN (Regístrate);
 20:00;Copa de España 1/4 de Final;Monbus Obradoiro;UEMC RV Baloncesto;LaLiga+ Plus;
 20:00;Copa de España 1/4 de Final;Movistar Estudiantes;San Pablo Burgos;LaLiga+ Plus;
@@ -36,4 +39,9 @@
 20:30;Basketball Champions League Play-In;Derthona Basket;Peristeri BC;DAZN (Regístrate);
 20:30;Copa de España 1/4 de Final;FC Cartagena CB;TAU Castelló;LaLiga+ Plus;
 20:30;Copa del Rey 1/8 de final;UD Ibiza FS;Viña Albali Valdepeñas;RFEF.es;RFEF TV YouTube;
+20:30;Eurocup Liga Regular;Valencia Basket;Türk Telekom Ankara;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+20:30;Liga Endesa Liga Regular;Basquet Girona;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
 20:45;Copa del Rey 1/8 de final;Noia Portus Apostoli FS;AD Sala 10 Zaragoza;RFEF.es;RFEF TV YouTube;
+21:00;Copa del Rey 1/16 de Final;Eldense;Valencia CF;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
+21:00;Rally Dakar;Etapa 3;Bisha › Al Henakiyah (845 km - SS: 496 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 1;
+21:30;LaLiga Hypermotion;CD Tenerife;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
