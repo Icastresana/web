@@ -41,7 +41,7 @@
 20:00;Eurocup Women 1/8 de final;Movistar Estudiantes;Villeneuve d'Ascq LM;FIBA YouTube;
 20:00;FIBA Europe Cup Segunda Ronda;Bilbao Basket;ESSM Le Portel Côte;FIBA YouTube;ETB4 (País Vasco);
 20:00;Liga Endesa Liga Regular;Baskonia;Básquet Coruña;M+ Deportes (63);
-20:00;Supercopa de España Semifinales King Abdullah Sports City Stadium, Jeddah;Athletic Club;FC Barcelona;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);M+ #Vamos Bar (304);LaLiga TV Bar;
+20:00;Supercopa de España Semifinales;Athletic Club;FC Barcelona;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);M+ #Vamos Bar (304);LaLiga TV Bar;
 20:30;Copa del Rey 1/8 de final;Real Betis FS;Movistar Inter;RFEF.es;RFEF TV YouTube;
 20:30;Eurocup Women 1/8 de final;Dinamo Sassari;IDK Euskotren;FIBA YouTube;ETBK (País Vasco);
 20:30;Liga Endesa Liga Regular;Coviran Granada;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
