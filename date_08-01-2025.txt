@@ -2,6 +2,7 @@
 01:00;NBA Liga Regular;Charlotte Hornets;Phoenix Suns;NBA League Pass;
 01:00;NBA Liga Regular;Washington Wizards;Houston Rockets;NBA League Pass;
 01:00;Torneo de Auckland 2ª Ronda;F. Díaz Acosta;S. Báez;ATP Tennis TV;
+01:30;NBA Liga Regular;Dallas Mavericks;Los Angeles Lakers;M+ Deportes (63);
 01:30;Torneo de Adelaida 2ª Ronda;F. Auger-Aliassime;A. Cazaux;ATP Tennis TV;
 01:30;WTA Torneo de Adelaida 2ª Ronda;E. Alexandrova;E. Navarro;WTA TV;Tennis Channel (Orange 123);
 02:00;NBA Liga Regular;New Orleans Pelicans;Minnesota Timberwolves;NBA League Pass;
@@ -24,6 +25,7 @@
 09:00;Título Internacional Peso Crucero;J. Opetaia;D. Nyika;DAZN (Regístrate);
 10:00;WTA Torneo de Hobart 2ª Ronda;R. Zarazúa;E. Mertens;WTA TV;
 10:30;WTA Torneo de Adelaida 2ª Ronda;E. Jones;D. Kasatkina;WTA TV;Tennis Channel (Orange 123);
+13:00;Copa del Rey;Sorteo Octavos de Final;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;RFEF TV YouTube;DATOS ESTADÍSTICOS DE COPA DEL REY EN TELEVISIÓN EN ESPAÑA;
 18:00;Basketball Champions League Play-In;Manisa BBSK;NINERS Chemnitz;DAZN (Regístrate);
 18:00;FIBA Europe Cup Segunda Ronda;Anwil Wloclawek;Fribourg Olympic;FIBA YouTube;
 18:00;FIBA Europe Cup Segunda Ronda;CSM Oradea;BC Kalev Cramo;FIBA YouTube;
@@ -38,5 +40,9 @@
 20:00;Copa del Rey 1/8 de final;Lauburu KE Ibarra;Servigroup Peñiscola FS;RFEF.es;RFEF TV YouTube;
 20:00;Eurocup Women 1/8 de final;Movistar Estudiantes;Villeneuve d'Ascq LM;FIBA YouTube;
 20:00;FIBA Europe Cup Segunda Ronda;Bilbao Basket;ESSM Le Portel Côte;FIBA YouTube;ETB4 (País Vasco);
+20:00;Liga Endesa Liga Regular;Baskonia;Básquet Coruña;M+ Deportes (63);
+20:00;Supercopa de España Semifinales;Athletic Club;FC Barcelona;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);M+ #Vamos Bar (304);LaLiga TV Bar;
 20:30;Copa del Rey 1/8 de final;Real Betis FS;Movistar Inter;RFEF.es;RFEF TV YouTube;
 20:30;Eurocup Women 1/8 de final;Dinamo Sassari;IDK Euskotren;FIBA YouTube;ETBK (País Vasco);
+20:30;Liga Endesa Liga Regular;Coviran Granada;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Fanatiz (Regístrate ahora);
+21:00;Rally Dakar;Etapa 4;Al Henakiyah › Alula (588 km - SS: 415 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 1;
