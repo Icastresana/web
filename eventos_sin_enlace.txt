@@ -23,7 +23,7 @@
 09:10;Torneo de Adelaida 2ª Ronda;TM. Etcheverry;T. Kokkinakis;ATP Tennis TV;
 09:10;WTA Torneo de Adelaida 2ª Ronda;J. Ostapenko;M. Keys;WTA TV;Tennis Channel (Orange 123);
 10:00;WTA Torneo de Hobart 2ª Ronda;R. Zarazúa;E. Mertens;WTA TV;
-11:15;WTA Torneo de Adelaida 2ª Ronda;E. Jones;D. Kasatkina;WTA TV;Tennis Channel (Orange 123);
+12:30;WTA Torneo de Adelaida 2ª Ronda;E. Jones;D. Kasatkina;WTA TV;Tennis Channel (Orange 123);
 18:00;Basketball Champions League Play-In;Manisa BBSK;NINERS Chemnitz;DAZN (Regístrate);
 18:00;FIBA Europe Cup Segunda Ronda;Anwil Wloclawek;Fribourg Olympic;FIBA YouTube;
 18:00;FIBA Europe Cup Segunda Ronda;CSM Oradea;BC Kalev Cramo;FIBA YouTube;

@@ -24,8 +24,8 @@
 09:10;Torneo de Adelaida 2ª Ronda;TM. Etcheverry;T. Kokkinakis;ATP Tennis TV;
 09:10;WTA Torneo de Adelaida 2ª Ronda;J. Ostapenko;M. Keys;WTA TV;Tennis Channel (Orange 123);
 10:00;WTA Torneo de Hobart 2ª Ronda;R. Zarazúa;E. Mertens;WTA TV;
-11:15;WTA Torneo de Adelaida 2ª Ronda;E. Jones;D. Kasatkina;WTA TV;Tennis Channel (Orange 123);
-13:00;Copa del Rey;Sorteo Octavos de Final;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;RFEF TV YouTube;DATOS ESTADÍSTICOS DE COPA DEL REY EN TELEVISIÓN EN ESPAÑA;
+12:30;WTA Torneo de Adelaida 2ª Ronda;E. Jones;D. Kasatkina;WTA TV;Tennis Channel (Orange 123);
+13:00;Copa del Rey;Sorteo Octavos de Final;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;RFEF TV YouTube;
 18:00;Basketball Champions League Play-In;Manisa BBSK;NINERS Chemnitz;DAZN (Regístrate);
 18:00;FIBA Europe Cup Segunda Ronda;Anwil Wloclawek;Fribourg Olympic;FIBA YouTube;
 18:00;FIBA Europe Cup Segunda Ronda;CSM Oradea;BC Kalev Cramo;FIBA YouTube;
@@ -44,6 +44,6 @@
 20:00;Supercopa de España Semifinales King Abdullah Sports City Stadium, Jeddah;Athletic Club;FC Barcelona;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);M+ #Vamos Bar (304);LaLiga TV Bar;
 20:30;Copa del Rey 1/8 de final;Real Betis FS;Movistar Inter;RFEF.es;RFEF TV YouTube;
 20:30;Eurocup Women 1/8 de final;Dinamo Sassari;IDK Euskotren;FIBA YouTube;ETBK (País Vasco);
-20:30;Liga Endesa Liga Regular;Coviran Granada;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Fanatiz (Regístrate ahora);
+20:30;Liga Endesa Liga Regular;Coviran Granada;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Rally Dakar;Etapa 4;Al Henakiyah › Alula (588 km - SS: 415 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 1;
 23:30;Torneo de Auckland 1/4 de Final;A. Michelsen;N. Basavareddy;ATP Tennis TV;
