@@ -1,4 +1,5 @@
 00:00;Open Australia;Ronda de clasificación;Grand Slam;MAX;
+01:00;NBA Liga Regular;Cleveland Cavaliers;Oklahoma C. Thunder;M+ Deportes (63);
 01:00;NBA Liga Regular;Indiana Pacers;Chicago Bulls;NBA League Pass;
 01:00;NBA Liga Regular;Philadelphia 76ers;Washington Wizards;NBA League Pass;
 01:30;NBA Liga Regular;Brooklyn Nets;Detroit Pistons;NBA League Pass;
@@ -27,5 +28,11 @@
 18:00;Eurocup Women 1/8 de final;Rutronik Stars Keltern;Basket Montpellier;FIBA YouTube;
 18:00;Eurocup Women 1/8 de final;Sopron Basket;UNI Györ;FIBA YouTube;
 18:00;Eurocup Women 1/8 de final;UFAB 49;Besiktas JK Istanbul;FIBA YouTube;
+18:45;Euroliga Liga Regular;Fenerbahce Istanbul;ALBA Berlin;M+ Deportes 2 (64);
+19:00;Euroliga Liga Regular;AS Monaco Basket;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:00;Eurocup Women 1/8 de final;BAXI Ferrol;DVTK HUN-Therm;FIBA YouTube;TVG2 (Galicia);
+20:00;Supercopa de España Semifinales;Real Madrid;Mallorca;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);LaLiga TV Bar;
+20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;AX Olimpia Milano;M+ Deportes 3 (65);
+20:15;Euroliga Liga Regular;Panathinaikos BC;BC Partizan Beograd;M+ Deportes (63);
 20:30;FIBA Europe Cup Segunda Ronda;Spirou Charleroi;MHP RIESEN Ludwigsburg;FIBA YouTube;
+21:00;Rally Dakar;Etapa 5;Alula › Hail (491 km - SS: 428 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 1;
