@@ -2,43 +2,7 @@ M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 M. Deportes 720
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-M.L. Campeones 1080 MultiAudio
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-M.L. Campeones 1080 MultiAudio
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-M.L. Campeones  1080P
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-M.L. Campeones 720
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-M.L. Campeones 2 1080
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-M.L. Campeones 2 720
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-M.L. Campeones 3 1080
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-M.L. Campeones 3 720
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-M.L. Campeones 4 1080
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-M.L. Campeones 5 1080
-acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-M.L. Campeones 6 1080
-acestream://64a9353032efa2acb093d0bb86481f20f482d47e
-M.L. Campeones 720
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
---
-M.L. Campeones 7 1080
-acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-#Vamos 1080
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#Vamos 720
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-EuroSport 2 1080
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
---
-EuroSport 2 1080
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-Teledeporte RTVE
-https://tdtchannels.com/television/Teledeporte
-Gol Play
-https://www.goltelevision.com/en-directo
+M. Deportes 4 1080
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+M. Deportes 5 1080
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
